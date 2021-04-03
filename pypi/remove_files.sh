@@ -35,4 +35,4 @@
 
 rm ./build -r
 rm ./dist -r
-rm ./unicorn_binance_rest_api.egg-info -r
+rm ./unicorn_binance_suite.egg-info -r
