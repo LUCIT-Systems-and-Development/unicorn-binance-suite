@@ -47,15 +47,10 @@ or the [current master branch](https://github.com/oliver-zehentleitner/unicorn-b
 - ./setup.py
 
 ## Change Log
-[https://oliver-zehentleitner.github.io/unicorn-binance-suite/CHANGELOG.html](https://oliver-zehentleitner.github.io/unicorn-binance-suite/CHANGELOG.html)
+Please look for the information in the README.md of the responsible subrepository
 
 ## Documentation
-- [General](https://oliver-zehentleitner.github.io/unicorn-binance-suite)
-- [Modules](https://oliver-zehentleitner.github.io/unicorn-binance-suite/unicorn_binance_websocket_api.html)
-
-## Examples
-
-## Howto
+Please look for the information in the README.md of the responsible subrepository.
 
 ## Project Homepage
 [https://github.com/oliver-zehentleitner/unicorn-binance-suite](https://github.com/oliver-zehentleitner/unicorn-binance-suite)
@@ -69,26 +64,12 @@ or the [current master branch](https://github.com/oliver-zehentleitner/unicorn-b
 - [https://community.binance.org](https://community.binance.org)
 
 ## How to report Bugs or suggest Improvements?
-[List of planned features](https://github.com/oliver-zehentleitner/unicorn-binance-rest-api/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement) - 
-click ![thumbs-up](https://raw.githubusercontent.com/oliver-zehentleitner/unicorn-binance-rest-api/master/images/misc/thumbup.png) if you need one of them or suggest a new feature!
-
-Before you report a bug, [try the latest release](https://github.com/oliver-zehentleitner/unicorn-binance-rest-api#installation-and-upgrade). If the issue still exists, provide the error trace, OS 
-and Python version and explain how to reproduce the error. A demo script is appreciated.
-
-If you dont find an issue related to your topic, please open a new [issue](https://github.com/oliver-zehentleitner/unicorn-binance-rest-api/issues)!
+Please look for the information in the README.md of the responsible subrepository.
 
 [Report a security bug!](https://github.com/oliver-zehentleitner/unicorn-binance-rest-api/security/policy)
 
 ## Contributing
-[UNICORN Binance Suite](https://github.com/oliver-zehentleitner/unicorn-binance-rest-api) is an open 
-source project which welcomes contributions which can be anything from simple documentation fixes and reporting dead links to new features. To 
-contribute follow 
-[this guide](https://github.com/oliver-zehentleitner/unicorn-binance-rest-api/blob/master/CONTRIBUTING.md).
- 
-### Contributors
-[![Contributors](https://contributors-img.web.app/image?repo=oliver-zehentleitner/unicorn-binance-rest-api)](https://github.com/oliver-zehentleitner/unicorn-binance-rest-api/graphs/contributors)
-
-We ![love](https://raw.githubusercontent.com/oliver-zehentleitner/unicorn-binance-rest-api/master/images/misc/heart.png) open source!
+Please look for the information in the README.md of the responsible subrepository.
 
 ## Commercial Support
 Need a Python developer or consulting? 
