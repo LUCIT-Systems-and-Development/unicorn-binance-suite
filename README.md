@@ -2,7 +2,7 @@
 [![Donations/week](http://img.shields.io/liberapay/receives/oliver-zehentleitner.svg?logo=liberapay)](https://liberapay.com/oliver-zehentleitner/donate)
 [![Patrons](http://img.shields.io/liberapay/patrons/oliver-zehentleitner.svg?logo=liberapay)](https://liberapay.com/oliver-zehentleitner/donate)
 
-# UNICORN Binance REST API
+# UNICORN Binance Suite
 
 [Description](#description) | [Installation](#installation-and-upgrade) |
 [Documentation](#documentation) | [Social](#social) |
@@ -68,25 +68,6 @@ or the [current master branch](https://github.com/oliver-zehentleitner/unicorn-b
 - [https://dev.binance.vision](https://dev.binance.vision)
 - [https://community.binance.org](https://community.binance.org)
 
-## Receive Notifications
-To receive notifications on available updates you can 
-[![watch](https://raw.githubusercontent.com/oliver-zehentleitner/unicorn-binance-rest-api/master/images/misc/watch.png)](https://github.com/oliver-zehentleitner/unicorn-binance-rest-api/watchers) 
-the repository on [GitHub](https://github.com/oliver-zehentleitner/unicorn-binance-rest-api), write your 
-[own script](https://github.com/oliver-zehentleitner/unicorn-binance-rest-api/blob/master/example_version_of_this_package.py) 
-with using 
-[`is_update_availabe()`](https://oliver-zehentleitner.github.io/unicorn-binance-rest-api/unicorn_binance_websocket_api.html#unicorn_binance_websocket_api.unicorn_binance_websocket_api_manager.BinanceWebSocketApiManager.is_update_availabe) 
-or you use the 
-[monitoring API service](https://github.com/oliver-zehentleitner/unicorn-binance-rest-api/wiki/UNICORN-Monitoring-API-Service).
-
-To receive news (like inspection windows/maintenance) about the Binance API`s subscribe to their telegram groups: 
-- [https://t.me/binance_api_announcements](https://t.me/binance_api_announcements)
-- [https://t.me/binance_api_english](https://t.me/binance_api_english)
-- [https://t.me/BinanceExchange](https://t.me/BinanceExchange)
-- [https://t.me/Binance_Jersey](https://t.me/Binance_Jersey)
-- [https://t.me/Binance_USA](https://t.me/Binance_USA)
-- [https://t.me/Binance_JEX_EN](https://t.me/Binance_JEX_EN)
-- [https://t.me/BinanceDEXchange](https://t.me/BinanceDEXchange)
-
 ## How to report Bugs or suggest Improvements?
 [List of planned features](https://github.com/oliver-zehentleitner/unicorn-binance-rest-api/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement) - 
 click ![thumbs-up](https://raw.githubusercontent.com/oliver-zehentleitner/unicorn-binance-rest-api/master/images/misc/thumbup.png) if you need one of them or suggest a new feature!
@@ -99,7 +80,7 @@ If you dont find an issue related to your topic, please open a new [issue](https
 [Report a security bug!](https://github.com/oliver-zehentleitner/unicorn-binance-rest-api/security/policy)
 
 ## Contributing
-[UNICORN Binance REST API](https://github.com/oliver-zehentleitner/unicorn-binance-rest-api) is an open 
+[UNICORN Binance Suite](https://github.com/oliver-zehentleitner/unicorn-binance-rest-api) is an open 
 source project which welcomes contributions which can be anything from simple documentation fixes and reporting dead links to new features. To 
 contribute follow 
 [this guide](https://github.com/oliver-zehentleitner/unicorn-binance-rest-api/blob/master/CONTRIBUTING.md).

@@ -3,7 +3,7 @@
 #
 # File: setup.py
 #
-# Part of ‘UNICORN Binance REST API’
+# Part of ‘UNICORN Binance Suite’
 # Project website: https://github.com/oliver-zehentleitner/unicorn-binance-rest-api
 # Documentation: https://oliver-zehentleitner.github.io/unicorn-binance-rest-api
 # PyPI: https://pypi.org/project/unicorn-binance-rest-api/
