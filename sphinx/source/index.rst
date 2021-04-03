@@ -11,7 +11,6 @@ Welcome to unicorn-binance-suite's documentation!
    :caption: Contents:
 
    Readme <README.md>
-   Modules <modules.rst>
    Copyright <copyright.rst>
 
 

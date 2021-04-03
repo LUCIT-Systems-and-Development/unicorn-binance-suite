@@ -1,7 +1,6 @@
-unicorn_binance_websocket_api
+unicorn_binance_suite
 =============================
 
 .. toctree::
    :maxdepth: 4
 
-   unicorn_binance_websocket_api
