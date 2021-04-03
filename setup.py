@@ -4,9 +4,9 @@
 # File: setup.py
 #
 # Part of ‘UNICORN Binance Suite’
-# Project website: https://github.com/oliver-zehentleitner/unicorn-binance-rest-api
-# Documentation: https://oliver-zehentleitner.github.io/unicorn-binance-rest-api
-# PyPI: https://pypi.org/project/unicorn-binance-rest-api/
+# Project website: https://github.com/oliver-zehentleitner/unicorn-binance-suite
+# Documentation: https://oliver-zehentleitner.github.io/unicorn-binance-suite
+# PyPI: https://pypi.org/project/unicorn-binance-suite/
 #
 # Author: Oliver Zehentleitner
 #         https://about.me/oliver-zehentleitner
@@ -44,7 +44,8 @@ setuptools.setup(
      version='0.0.0',
      author="Oliver Zehentleitner",
      url="https://github.com/oliver-zehentleitner/unicorn-binance-suite",
-     description="An unofficial meta package to use the Binance API`s.",
+     description="The `UNICORN Binance Suite` is a Python Meta Package of unicorn-binance-websocket-api, "
+                 "unicorn-binance-rest-api and unicorn-fy.",
      long_description=long_description,
      long_description_content_type="text/markdown",
      license='MIT License',

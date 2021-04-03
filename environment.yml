@@ -1,7 +1,7 @@
-name: unicorn-binance-rest-api
+name: unicorn-binance-suite
 dependencies:
 - python>=3.6.1
 - pip:
-  -
+  - unicorn-binance-websocket-api
   - unicorn-binance-rest-api
   - unicorn-fy

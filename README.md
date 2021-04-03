@@ -66,7 +66,7 @@ Please look for the information in the README.md of the responsible subrepositor
 ## How to report Bugs or suggest Improvements?
 Please look for the information in the README.md of the responsible subrepository.
 
-[Report a security bug!](https://github.com/oliver-zehentleitner/unicorn-binance-rest-api/security/policy)
+[Report a security bug!](https://github.com/oliver-zehentleitner/unicorn-binance-suite/security/policy)
 
 ## Contributing
 Please look for the information in the README.md of the responsible subrepository.
