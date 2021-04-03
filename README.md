@@ -60,13 +60,16 @@ Please look for the information in the README.md of the responsible subrepositor
 
 ## Social
 - [https://t.me/unicorndevs](https://t.me/unicorndevs)
+- [Twitter](https://twitter.com/DevsUnicorn)
+- [unicorn-coding-club](https://github.com/oliver-zehentleitner/unicorn-coding-club)
 - [https://dev.binance.vision](https://dev.binance.vision)
 - [https://community.binance.org](https://community.binance.org)
 
-## How to report Bugs or suggest Improvements?
+## Receive Notifications
 Please look for the information in the README.md of the responsible subrepository.
 
-[Report a security bug!](https://github.com/oliver-zehentleitner/unicorn-binance-suite/security/policy)
+## How to report Bugs or suggest Improvements?
+Please look for the information in the README.md of the responsible subrepository.
 
 ## Contributing
 Please look for the information in the README.md of the responsible subrepository.
