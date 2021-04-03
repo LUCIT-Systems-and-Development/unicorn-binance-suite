@@ -11,9 +11,9 @@
 
 ## Description
 The `UNICORN Binance Suite` is a Python Meta Package of
+- [unicorn-fy](https://github.com/oliver-zehentleitner/unicorn-fy)
 - [unicorn-binance-rest-api](https://github.com/oliver-zehentleitner/unicorn-binance-rest-api)
 - [unicorn-binance-websocket-api](https://github.com/oliver-zehentleitner/unicorn-binance-websocket-api)
-- [unicorn-fy](https://github.com/oliver-zehentleitner/unicorn-fy)
 
 ## Installation and Upgrade
 The current dependencies are listed 
