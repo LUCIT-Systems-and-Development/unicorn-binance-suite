@@ -29,10 +29,10 @@ Run in bash:
 
 `pip install https://github.com/oliver-zehentleitner/unicorn-binance-suite/archive/$(curl -s https://api.github.com/repos/oliver-zehentleitner/unicorn-binance-suite/releases/latest | grep -oP '"tag_name": "\K(.*)(?=")').tar.gz --upgrade`
 #### Windows
-Use the below command with the version (such as 1.27.0) you determined 
+Use the below command with the version (such as 0.0.0) you determined 
 [here](https://github.com/oliver-zehentleitner/unicorn-binance-suite/releases/latest):
 
-`pip install https://github.com/oliver-zehentleitner/unicorn-binance-suite/archive/1.27.0.tar.gz --upgrade`
+`pip install https://github.com/oliver-zehentleitner/unicorn-binance-suite/archive/0.0.0.tar.gz --upgrade`
 ### From the latest source (dev-stage) with PIP from [Github](https://github.com/oliver-zehentleitner/unicorn-binance-suite)
 This is not a release version and can not be considered to be stable!
 
