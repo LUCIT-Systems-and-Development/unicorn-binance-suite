@@ -3,7 +3,6 @@
 [![Patrons](http://img.shields.io/liberapay/patrons/oliver-zehentleitner.svg?logo=liberapay)](https://liberapay.com/oliver-zehentleitner/donate)
 
 # UNICORN Binance Suite
-
 [Description](#description) | [Installation](#installation-and-upgrade) |
 [Documentation](#documentation) | [Social](#social) |
 [Notifications](#receive-notifications) | [Bugs](#how-to-report-bugs-or-suggest-improvements) | 
@@ -16,42 +15,13 @@ The `UNICORN Binance Suite` is a Python Meta Package of
 - [unicorn-binance-websocket-api](https://github.com/oliver-zehentleitner/unicorn-binance-websocket-api)
 
 ## Installation and Upgrade
-The current dependencies are listed 
-[here](https://github.com/oliver-zehentleitner/unicorn-binance-suite/blob/master/requirements.txt).
-
 If you run into errors during the installation take a look [here](https://github.com/oliver-zehentleitner/unicorn-binance-suite/wiki/Installation).
 
-### A wheel of the latest release with PIP from [PyPI](https://pypi.org/project/unicorn-binance-suite/)
-`pip install unicorn-binance-suite --upgrade`
-### From source of the latest release with PIP from [Github](https://github.com/oliver-zehentleitner/unicorn-binance-suite)
-#### Linux, macOS, ...
-Run in bash:
-
-`pip install https://github.com/oliver-zehentleitner/unicorn-binance-suite/archive/$(curl -s https://api.github.com/repos/oliver-zehentleitner/unicorn-binance-suite/releases/latest | grep -oP '"tag_name": "\K(.*)(?=")').tar.gz --upgrade`
-#### Windows
-Use the below command with the version (such as 0.0.0) you determined 
-[here](https://github.com/oliver-zehentleitner/unicorn-binance-suite/releases/latest):
-
-`pip install https://github.com/oliver-zehentleitner/unicorn-binance-suite/archive/0.0.0.tar.gz --upgrade`
-### From the latest source (dev-stage) with PIP from [Github](https://github.com/oliver-zehentleitner/unicorn-binance-suite)
-This is not a release version and can not be considered to be stable!
-
-`pip install https://github.com/oliver-zehentleitner/unicorn-binance-suite/tarball/master --upgrade`
-
-### [Conda environment](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html), [Virtualenv](https://virtualenv.pypa.io/en/latest/) or plain [Python](https://docs.python.org/2/install/)
-Download the [latest release](https://github.com/oliver-zehentleitner/unicorn-binance-suite/releases/latest) 
-or the [current master branch](https://github.com/oliver-zehentleitner/unicorn-binance-suite/archive/master.zip)
- and use:
-- ./environment.yml
-- ./requirements.txt
-- ./setup.py
-
 ## Change Log
-Please look for the information in the README.md of the responsible subrepository
+Please look for the information in the README.md of the [responsible subrepository](https://github.com/oliver-zehentleitner/unicorn-binance-suite#description).
 
 ## Documentation
-Please look for the information in the README.md of the responsible subrepository.
-
+Please look for the information in the README.md of the [responsible subrepository](https://github.com/oliver-zehentleitner/unicorn-binance-suite#description).
 ## Project Homepage
 [https://github.com/oliver-zehentleitner/unicorn-binance-suite](https://github.com/oliver-zehentleitner/unicorn-binance-suite)
 
@@ -66,14 +36,11 @@ Please look for the information in the README.md of the responsible subrepositor
 - [https://community.binance.org](https://community.binance.org)
 
 ## Receive Notifications
-Please look for the information in the README.md of the responsible subrepository.
-
+Please look for the information in the README.md of the [responsible subrepository](https://github.com/oliver-zehentleitner/unicorn-binance-suite#description).
 ## How to report Bugs or suggest Improvements?
-Please look for the information in the README.md of the responsible subrepository.
-
+Please look for the information in the README.md of the [responsible subrepository](https://github.com/oliver-zehentleitner/unicorn-binance-suite#description).
 ## Contributing
-Please look for the information in the README.md of the responsible subrepository.
-
+Please look for the information in the README.md of the [responsible subrepository](https://github.com/oliver-zehentleitner/unicorn-binance-suite#description).
 ## Commercial Support
 Need a Python developer or consulting? 
 
