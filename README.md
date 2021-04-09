@@ -1,9 +1,3 @@
-[![GitHub release](https://img.shields.io/github/release/oliver-zehentleitner/unicorn-binance-suite.svg)](https://pypi.org/project/unicorn-binance-suite/)
-[![GitHub](https://img.shields.io/github/license/oliver-zehentleitner/unicorn-binance-suite.svg?color=blue)](https://github.com/oliver-zehentleitner/unicorn-binance-suite/blob/master/LICENSE)
-[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/unicorn-binance-suite.svg)](https://www.python.org/downloads/)
-[![Downloads](https://pepy.tech/badge/unicorn-binance-suite)](https://pepy.tech/project/unicorn-binance-suite)
-[![PyPI - Wheel](https://img.shields.io/pypi/wheel/unicorn-binance-suite.svg?label=PyPI%20wheel)](https://pypi.org/project/unicorn-binance-suite/)
-[![PyPI - Status](https://img.shields.io/pypi/status/unicorn-binance-suite.svg)](https://github.com/oliver-zehentleitner/unicorn-binance-suite/issues)
 [![Telegram](https://img.shields.io/badge/chat-telegram-yellow.svg)](https://t.me/unicorndevs)
 [![Donations/week](http://img.shields.io/liberapay/receives/oliver-zehentleitner.svg?logo=liberapay)](https://liberapay.com/oliver-zehentleitner/donate)
 [![Patrons](http://img.shields.io/liberapay/patrons/oliver-zehentleitner.svg?logo=liberapay)](https://liberapay.com/oliver-zehentleitner/donate)
@@ -21,6 +15,10 @@ The `UNICORN Binance Suite` is a Python Meta Package of
 - [unicorn-binance-websocket-api](https://github.com/oliver-zehentleitner/unicorn-binance-websocket-api)
 
 ## Installation and Upgrade
+```
+pip install unicorn-binance-websocket-api --upgrade
+```
+
 If you run into errors during the installation take a look [here](https://github.com/oliver-zehentleitner/unicorn-binance-suite/wiki/Installation).
 
 ## Change Log
