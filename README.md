@@ -16,7 +16,7 @@ The `UNICORN Binance Suite` is a Python Meta Package of
 
 ## Installation and Upgrade
 ```
-pip install unicorn-binance-websocket-api --upgrade
+pip install unicorn-binance-suite --upgrade
 ```
 
 If you run into errors during the installation take a look [here](https://github.com/oliver-zehentleitner/unicorn-binance-suite/wiki/Installation).
