@@ -15,6 +15,10 @@ The `UNICORN Binance Suite` is a Python Meta Package of
 - [unicorn-binance-websocket-api](https://github.com/oliver-zehentleitner/unicorn-binance-websocket-api)
 
 ## Installation and Upgrade
+```
+pip install unicorn-binance-suite --upgrade
+```
+
 If you run into errors during the installation take a look [here](https://github.com/oliver-zehentleitner/unicorn-binance-suite/wiki/Installation).
 
 ## Change Log
@@ -45,16 +49,42 @@ Please look for the information in the README.md of the [responsible subreposito
 Need a Python developer or consulting? 
 
 Contact [me](https://about.me/oliver-zehentleitner) for a non-binding and free consultation via my company 
-[LUCIT](https://www.lucit.dev) from Vienna (Austria).
+[LUCIT](https://www.lucit.dev) from Vienna (Austria) or via [Telegram](https://t.me/LUCIT_OZ).
 
-### Donate
-Since you are probably a developer yourself, you will understand very well that the creation of open source software is 
-not free - it requires technical knowledge, a lot of time and also financial expenditure.
+## Donate
+Developing, documenting and testing the 
+[UNICORN Binance Suite](https://github.com/oliver-zehentleitner/unicorn-binance-suite) and supporting the community 
+takes a lot of time and time is a form of cost. I am extremely happy to do this, but need a solution for sharing the 
+costs.
 
-If you would like to help me to dedicate my time and energy to this project, even small donations are very welcome.
+I think we are lucky, as our community consists of traders and programmers I expect to find mostly rational thinking 
+people who also benefit financially from these libraries.
+
+I would like to create a fair model for funding. My goals are that unicorn-binance-websocket-api, 
+unicorn-binance-rest-api and unicorn-fy remain freely available as open source and that I am compensated at least to 
+some extent and thus can invest my time more easily.
+
+If you know the hooker principle from negotiation research or game theory, you know about the problem that people don't 
+often pay for something out of their own impulse if they have already received it for free. 
+
+So my idea is to give every donor who gives an amount over 50 EUR access to a private Github repository where Python 
+classes for trading algos are provided (OrderBook, advanced stop-loss, ...). Moreover, maybe a nice ApiTrader community 
+will be formed.
+
+So the donor not only helps to push the open source development but also gets access to a well maintained collection of 
+practical code for little money. 
+
+Furthermore community members can help me by donating own developments to make the 
+[unicorn-coding-club](https://github.com/oliver-zehentleitner/unicorn-coding-club) repository more attractive to create 
+further incentives for new donors. This way we generate added value for all sides in an uncomplicated way.
+
+If you donated at least 50 EUR (without transaction fee), please send me a message with a confirmation and your Github 
+username via https://www.lucit-development.co/contact.html, I will invite you to the 
+[unicorn-coding-club](https://github.com/oliver-zehentleitner/unicorn-coding-club) as soon as possible.
 
 [![Donate using Liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/oliver-zehentleitner/donate)
 
+[:heart: Sponsor (GitHub)](https://github.com/sponsors/oliver-zehentleitner/)
 ```
 Terra (LUNA, UST, ...): terra1yt34qmmycextztnj9mpt3mnjzqqvl8jtqqq7g9
 BTC: 39fS74fvcGnmEk8JUV8bG6P1wkdH29GtsA
