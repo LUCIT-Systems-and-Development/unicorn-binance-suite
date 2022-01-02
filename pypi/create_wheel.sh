@@ -4,7 +4,7 @@
 # File: create_wheel.sh
 #
 # Part of ‘UNICORN Binance Suite’
-# Project website: https://github.com/oliver-zehentleitner/unicorn-binance-suite
+# Project website: https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite
 # Documentation: https://oliver-zehentleitner.github.io/unicorn-binance-suite
 # PyPI: https://pypi.org/project/unicorn-binance-suite/
 #

@@ -21,8 +21,8 @@ sys.path.insert(0, os.path.abspath('../..'))
 # -- Project information -----------------------------------------------------
 
 project = 'unicorn-binance-suite'
-copyright = '2021, Oliver Zehentleitner'
-author = 'Oliver Zehentleitner'
+copyright = '2021-2022, LUCIT Systems and Development and Oliver Zehentleitner'
+author = 'LUCIT Systems and Development'
 
 # The short X.Y version
 version = ''
@@ -87,7 +87,7 @@ pygments_style = None
 # a list of builtin themes.
 
 html_theme = 'python_docs_theme_technopathy'
-html_context = {'github_user_name': 'oliver-zehentleitner',
+html_context = {'github_user_name': 'LUCIT-Systems-and-Development',
                 'github_repo_name': 'unicorn-binance-suite',
                 'project_name': project}
 
@@ -144,7 +144,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'unicorn-binance-suite.tex', 'unicorn-binance-suite Documentation',
-     'Oliver Zehentleitner', 'manual'),
+     'LUCIT Systems and Development', 'manual'),
 ]
 
 
