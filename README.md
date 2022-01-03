@@ -6,7 +6,7 @@
 [Description](#description) | [Installation](#installation-and-upgrade) |
 [Documentation](#documentation) | [Social](#social) |
 [Notifications](#receive-notifications) | [Bugs](#how-to-report-bugs-or-suggest-improvements) | 
-[Contributing](#contributing) | [Commercial Support](#commercial-support) | [Donate](#donate)
+[Contributing](#contributing) | [Commercial Support](#commercial-support)
 
 ## Description
 The `UNICORN Binance Suite` is a Python Meta Package of
