@@ -1,18 +1,20 @@
 [![Telegram](https://img.shields.io/badge/chat-telegram-yellow.svg)](https://t.me/unicorndevs)
-[![Donations/week](http://img.shields.io/liberapay/receives/oliver-zehentleitner.svg?logo=liberapay)](https://liberapay.com/oliver-zehentleitner/donate)
-[![Patrons](http://img.shields.io/liberapay/patrons/oliver-zehentleitner.svg?logo=liberapay)](https://liberapay.com/oliver-zehentleitner/donate)
 
 # UNICORN Binance Suite
 [Description](#description) | [Installation](#installation-and-upgrade) |
 [Documentation](#documentation) | [Social](#social) |
 [Notifications](#receive-notifications) | [Bugs](#how-to-report-bugs-or-suggest-improvements) | 
-[Contributing](#contributing) | [Commercial Support](#commercial-support) | [Donate](#donate)
+[Contributing](#contributing) | [Commercial Support](#commercial-support)
 
 ## Description
 The `UNICORN Binance Suite` is a Python Meta Package of
 - [unicorn-fy](https://github.com/LUCIT-Systems-and-Development/unicorn-fy)
 - [unicorn-binance-rest-api](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-rest-api)
 - [unicorn-binance-websocket-api](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-websocket-api)
+
+### Coming soon
+- unicorn-trailing-stop-loss-engine
+- unicorn-local-orderbook-manager
 
 ## Installation and Upgrade
 ```
@@ -34,7 +36,7 @@ Please look for the information in the README.md of the [responsible subreposito
 
 ## Social
 - [https://t.me/unicorndevs](https://t.me/unicorndevs)
-- [Twitter](https://twitter.com/LUCIT_SysDev)
+- [https://twitter.com/LUCIT_SysDev](https://twitter.com/LUCIT_SysDev)
 - [https://dev.binance.vision](https://dev.binance.vision)
 - [https://community.binance.org](https://community.binance.org)
 
@@ -44,22 +46,11 @@ Please look for the information in the README.md of the [responsible subreposito
 Please look for the information in the README.md of the [responsible subrepository](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite#description).
 ## Contributing
 Please look for the information in the README.md of the [responsible subrepository](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite#description).
+
 ## Commercial Support
-Need a Python developer or consulting? 
+[![LUCIT](https://www.lucit.tech/files/images/logos/LUCIT-LOGO-TRANS-PLAIN-NEW.png)](https://www.lucit.tech)
 
-Contact [me](https://about.me/oliver-zehentleitner) for a non-binding and free consultation via my company 
-[LUCIT](https://www.lucit.dev) from Vienna (Austria) or via [Telegram](https://t.me/LUCIT_OZ).
+Do you need a developer, operator or consultant? 
 
-## Donate
-[![Donate using Liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/oliver-zehentleitner/donate)
-
-[:heart: Sponsor (GitHub)](https://github.com/sponsors/oliver-zehentleitner/)
-```
-Terra (LUNA, UST, ...): terra1yt34qmmycextztnj9mpt3mnjzqqvl8jtqqq7g9
-BTC: 39fS74fvcGnmEk8JUV8bG6P1wkdH29GtsA
-DASH: XsRhBuPkXGF9WvifdpkVhTGSmVT4VcuQZ7
-ETH: 0x1C15857Bf1E18D122dDd1E536705748aa529fc9C
-LTC: LYNzHMFUbee3siyHvNCPaCjqXxjyq8YRGJ
-XMR: 85dzsTRh6GRPGVSJoUbFDwAf9uwwAdim1HFpiGshLeKHgj2hVqKtYVPXMZvudioLsuLS1AegkUiQ12jwReRwWcFvF7kDAbF
-ZEC: t1WvQMPJMriGWD9qkZGDdE9tTJaawvmsBie
-```
+Contact me for a non-binding initial consultation via my company 
+[LUCIT](https://www.lucit.tech) from Vienna (Austria) or via [Telegram](https://t.me/LUCIT_OZ).
