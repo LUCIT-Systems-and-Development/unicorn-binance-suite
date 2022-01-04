@@ -14,7 +14,7 @@ The `UNICORN Binance Suite` is a Python Meta Package of
 
 ### Coming soon
 - unicorn-trailing-stop-loss-engine
-- unicorn-orderbook-manager
+- unicorn-local-orderbook-manager
 
 ## Installation and Upgrade
 ```
