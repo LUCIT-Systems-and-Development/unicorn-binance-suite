@@ -36,7 +36,7 @@ Please look for the information in the README.md of the [responsible subreposito
 
 ## Social
 - [https://t.me/unicorndevs](https://t.me/unicorndevs)
-- [Twitter](https://twitter.com/LUCIT_SysDev)
+- https://twitter.com/LUCIT_SysDev
 - [https://dev.binance.vision](https://dev.binance.vision)
 - [https://community.binance.org](https://community.binance.org)
 
