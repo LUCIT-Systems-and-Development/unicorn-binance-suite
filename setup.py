@@ -42,8 +42,9 @@ with open("README.md", "r") as fh:
 setuptools.setup(
      name='unicorn-binance-suite',
      version='0.0.0',
-     author="Oliver Zehentleitner",
-     url="https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite",
+     author="LUCIT Systems and Development",
+     author_email='info@lucit.tech',
+     url="https://github.com/LUCIT-Systems-and-Development//unicorn-binance-suite",
      description="The `UNICORN Binance Suite` is a Python Meta Package of unicorn-binance-websocket-api, "
                  "unicorn-binance-rest-api and unicorn-fy.",
      long_description=long_description,
@@ -52,9 +53,9 @@ setuptools.setup(
      install_requires=['unicorn-binance-websocket-api', 'unicorn-binance-rest-api', 'unicorn-fy'],
      keywords='',
      project_urls={
-        'Documentation': 'https://oliver-zehentleitner.github.io/unicorn-binance-suite',
+        'Documentation': 'https://lucit-systems-and-development.github.io/unicorn-binance-suite',
         'Wiki': 'https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/wiki',
-        'Author': 'https://about.me/oliver-zehentleitner/',
+        'Author': 'https://www.lucit.tech',
      },
      python_requires='>=3.6.1',
      packages=setuptools.find_packages(),
