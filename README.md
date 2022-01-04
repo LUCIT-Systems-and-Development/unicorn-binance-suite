@@ -12,6 +12,10 @@ The `UNICORN Binance Suite` is a Python Meta Package of
 - [unicorn-binance-rest-api](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-rest-api)
 - [unicorn-binance-websocket-api](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-websocket-api)
 
+### Coming soon
+- unicorn-trailing-stop-loss-engine
+- unicorn-orderbook-manager
+
 ## Installation and Upgrade
 ```
 pip install unicorn-binance-suite --upgrade
