@@ -28,6 +28,7 @@ Please look for the information in the README.md of the [responsible subreposito
 
 ## Documentation
 Please look for the information in the README.md of the [responsible subrepository](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite#description).
+
 ## Project Homepage
 [https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite)
 
@@ -42,8 +43,10 @@ Please look for the information in the README.md of the [responsible subreposito
 
 ## Receive Notifications
 Please look for the information in the README.md of the [responsible subrepository](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite#description).
+
 ## How to report Bugs or suggest Improvements?
 Please look for the information in the README.md of the [responsible subrepository](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite#description).
+
 ## Contributing
 Please look for the information in the README.md of the [responsible subrepository](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite#description).
 
