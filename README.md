@@ -36,8 +36,8 @@ Please look for the information in the README.md of the [responsible subreposito
 [https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/wiki](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/wiki)
 
 ## Social
+- [Discussions](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/discussions)
 - [https://t.me/unicorndevs](https://t.me/unicorndevs)
-- [https://twitter.com/LUCIT_SysDev](https://twitter.com/LUCIT_SysDev)
 - [https://dev.binance.vision](https://dev.binance.vision)
 - [https://community.binance.org](https://community.binance.org)
 
