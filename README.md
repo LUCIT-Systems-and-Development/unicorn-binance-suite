@@ -13,8 +13,8 @@ The `UNICORN Binance Suite` is a Python Meta Package of
 - [unicorn-binance-websocket-api](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-websocket-api)
 
 ### Coming soon
-- unicorn-trailing-stop-loss-engine
-- unicorn-local-orderbook-manager
+- [unicorn-binance-local-depth-cache](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-local-depth-cache)
+- [unicorn-binance-trailing-stop-loss-engine](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-trailing-stop-loss-engine)
 
 ## Installation and Upgrade
 ```
