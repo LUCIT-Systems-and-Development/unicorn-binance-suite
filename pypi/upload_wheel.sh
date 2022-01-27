@@ -5,13 +5,12 @@
 #
 # Part of ‘UNICORN Binance Suite’
 # Project website: https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite
-# Documentation: https://oliver-zehentleitner.github.io/unicorn-binance-suite
-# PyPI: https://pypi.org/project/unicorn-binance-suite/
+# Documentation: https://unicorn-fy.docs.lucit.tech
+# PyPI: https://pypi.org/project/unicorn-binance-suite
 #
-# Author: Oliver Zehentleitner
-#         https://about.me/oliver-zehentleitner
+# Author: LUCIT Systems and Development
 #
-# Copyright (c) 2021-2021, Oliver Zehentleitner (https://about.me/oliver-zehentleitner)
+# Copyright (c) 2021-2021, LUCIT Systems and Development (https://www.lucit.tech) and Oliver Zehentleitner
 # All rights reserved.
 #
 # Permission is hereby granted, free of charge, to any person obtaining a

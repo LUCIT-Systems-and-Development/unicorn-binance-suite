@@ -5,15 +5,13 @@
 #
 # Part of ‘UNICORN Binance Suite’
 # Project website: https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite
-# Documentation: https://oliver-zehentleitner.github.io/unicorn-binance-suite
-# PyPI: https://pypi.org/project/unicorn-binance-suite/
+# Documentation: https://unicorn-binance-suite.docs.lucit.tech
+# PyPI: https://pypi.org/project/unicorn-binance-suite
 #
-# Author: Oliver Zehentleitner
-#         https://about.me/oliver-zehentleitner
+# Author: LUCIT Systems and Development
 #
-# Copyright (c) 2017-2021, Sam McHardy (https://github.com/sammchardy)
-# Copyright (c) 2021-2021, Oliver Zehentleitner (https://about.me/oliver-zehentleitner)
-# All rights reserved.
+# Copyright (c) 2021-2021, LUCIT Systems and Development (https://www.lucit.tech) and Oliver Zehentleitner
+# # All rights reserved.
 #
 # Permission is hereby granted, free of charge, to any person obtaining a
 # copy of this software and associated documentation files (the
@@ -44,7 +42,7 @@ setuptools.setup(
      version='0.0.0',
      author="LUCIT Systems and Development",
      author_email='info@lucit.tech',
-     url="https://github.com/LUCIT-Systems-and-Development//unicorn-binance-suite",
+     url="https://unicorn-binance-suite.docs.lucit.tech/unicorn-binance-suite",
      description="The `UNICORN Binance Suite` is a Python Meta Package of unicorn-binance-websocket-api, "
                  "unicorn-binance-rest-api and unicorn-fy.",
      long_description=long_description,
@@ -53,7 +51,7 @@ setuptools.setup(
      install_requires=['unicorn-binance-websocket-api', 'unicorn-binance-rest-api', 'unicorn-fy'],
      keywords='',
      project_urls={
-        'Documentation': 'https://lucit-systems-and-development.github.io/unicorn-binance-suite',
+        'Documentation': 'https://unicorn-binance-suite.docs.lucit.tech/',
         'Wiki': 'https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/wiki',
         'Author': 'https://www.lucit.tech',
      },
