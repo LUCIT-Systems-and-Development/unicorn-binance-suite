@@ -19,7 +19,7 @@ The `UNICORN Binance Suite` is a Python Meta Package of
 
 ## Installation and Upgrade
 ```
-pip install unicorn-binance-suite --upgrade
+python3 -m pip install unicorn-binance-suite --upgrade --force-reinstall
 ```
 
 If you run into errors during the installation take a look [here](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/wiki/Installation).
