@@ -12,7 +12,7 @@
 ## Description
 The [`UNICORN Binance Suite`](https://www.lucit.tech/unicorn-binance-suite.html) is a Python Meta Package of
 
-- [unicorn-fy](https://www.lucit.tech/unicornfy.html)
+- [unicorn-fy](https://www.lucit.tech/unicorn-fy.html)
 - [unicorn-binance-rest-api](https://www.lucit.tech/unicorn-binance-rest-api.html)
 - [unicorn-binance-websocket-api](https://www.lucit.tech/unicorn-binance-websocket-api.html)
 
@@ -48,7 +48,7 @@ Please look for the information in the README.md of the [responsible subreposito
 - [https://community.binance.org](https://community.binance.org)
 
 ## Receive Notifications
-Follow us on [Twitter](https://twitter.com/LUCIT_SysDev) or on [Facebook](https://www.facebook.com/lucit.systems.and.development) for general news about the [unicorn-binance-suite](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite)!
+Follow us on [Twitter](https://twitter.com/LUCIT_SysDev) or on [Facebook](https://www.facebook.com/lucit.systems.and.development) for general news about the [unicorn-binance-suite](https://www.lucit.tech/unicorn-binance-suite.html)!
 
 Please look for the information in the README.md of the [responsible subrepository](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite#description) for spezific notifications.
 
