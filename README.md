@@ -8,7 +8,7 @@
 [Contributing](#contributing) | [Commercial Support](#commercial-support)
 
 ## Description
-The `UNICORN Binance Suite` is a Python Meta Package of
+The [`UNICORN Binance Suite`](https://www.lucit.tech/unicorn-binance-suite.html) is a Python Meta Package of
 
 - [unicorn-fy](https://www.lucit.tech/unicornfy.html)
 - [unicorn-binance-rest-api](https://www.lucit.tech/unicorn-binance-rest-api.html)
