@@ -10,13 +10,13 @@
 ## Description
 The `UNICORN Binance Suite` is a Python Meta Package of
 
-- [unicorn-fy](https://github.com/LUCIT-Systems-and-Development/unicorn-fy)
-- [unicorn-binance-rest-api](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-rest-api)
-- [unicorn-binance-websocket-api](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-websocket-api)
+- [unicorn-fy](https://www.lucit.tech/unicornfy.html)
+- [unicorn-binance-rest-api](https://www.lucit.tech/unicorn-binance-rest-api.html)
+- [unicorn-binance-websocket-api](https://www.lucit.tech/unicorn-binance-websocket-api.html)
 
 ### Coming soon
-- [unicorn-binance-local-depth-cache](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-local-depth-cache)
-- [unicorn-binance-trailing-stop-loss-engine](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-trailing-stop-loss-engine)
+- [unicorn-binance-local-depth-cache](https://www.lucit.tech/unicorn-binance-local-depth-cache.html)
+- [unicorn-binance-trailing-stop-loss-engine](https://www.lucit.tech/unicorn-binance-trailing-stop-loss-engine.html)
 
 ## Installation and Upgrade
 ```
