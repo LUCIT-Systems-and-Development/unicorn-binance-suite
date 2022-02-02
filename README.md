@@ -1,5 +1,5 @@
 [![Downloads](https://pepy.tech/badge/unicorn-binance-suite)](https://pepy.tech/project/unicorn-binance-suite)
-[![Read the Docs](https://img.shields.io/badge/-Read%20the%20Docs-informational)](https://unicorn-binance-suite.docs.lucit.tech/)
+[![Read the Docs](https://img.shields.io/badge/read-%20docs-yellow)](https://unicorn-binance-suite.docs.lucit.tech/)
 [![Telegram](https://img.shields.io/badge/chat-telegram-yellow.svg)](https://t.me/unicorndevs)
 
 # UNICORN Binance Suite
