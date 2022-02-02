@@ -9,6 +9,7 @@
 
 ## Description
 The `UNICORN Binance Suite` is a Python Meta Package of
+
 - [unicorn-fy](https://github.com/LUCIT-Systems-and-Development/unicorn-fy)
 - [unicorn-binance-rest-api](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-rest-api)
 - [unicorn-binance-websocket-api](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-websocket-api)
@@ -21,6 +22,7 @@ The `UNICORN Binance Suite` is a Python Meta Package of
 ```
 python3 -m pip install unicorn-binance-suite --upgrade --force-reinstall
 ```
+
 The `--upgrade` flag will not update the `unicorn-binance-suite` dependencies unless you add the `--force-reinstall` flag.
 
 If you run into errors during the installation take a look [here](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/wiki/Installation).
