@@ -55,11 +55,10 @@ setuptools.setup(
         'Wiki': 'https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/wiki',
         'Author': 'https://www.lucit.tech',
      },
-     python_requires='>=3.6.1',
+     python_requires='>=3.7.0',
      packages=setuptools.find_packages(),
      classifiers=[
          "Development Status :: 5 - Production/Stable",
-         "Programming Language :: Python :: 3.6",
          "Programming Language :: Python :: 3.7",
          "Programming Language :: Python :: 3.8",
          "Programming Language :: Python :: 3.9",
