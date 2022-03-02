@@ -43,8 +43,7 @@ setuptools.setup(
      author="LUCIT Systems and Development",
      author_email='info@lucit.tech',
      url="https://unicorn-binance-suite.docs.lucit.tech/unicorn-binance-suite",
-     description="The `UNICORN Binance Suite` is a Python Meta Package of unicorn-binance-websocket-api, "
-                 "unicorn-binance-rest-api and unicorn-fy.",
+     description="The UNICORN Binance Suite is a Python Meta Package of unicorn-fy, unicorn-binance-local-depth-cache, unicorn-binance-rest-api and unicorn-binance-websocket-api.",
      long_description=long_description,
      long_description_content_type="text/markdown",
      license='MIT License',
