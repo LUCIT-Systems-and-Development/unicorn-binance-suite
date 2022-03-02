@@ -39,7 +39,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
      name='unicorn-binance-suite',
-     version='0.0.0',
+     version='0.1.0',
      author="LUCIT Systems and Development",
      author_email='info@lucit.tech',
      url="https://unicorn-binance-suite.docs.lucit.tech/unicorn-binance-suite",
