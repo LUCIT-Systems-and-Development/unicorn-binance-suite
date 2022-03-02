@@ -10,7 +10,7 @@
 #
 # Author: LUCIT Systems and Development
 #
-# Copyright (c) 2021-2022, LUCIT Systems and Development (https://www.lucit.tech) and Oliver Zehentleitner
+# Copyright (c) 2022-2022, LUCIT Systems and Development (https://www.lucit.tech) and Oliver Zehentleitner
 # # All rights reserved.
 #
 # Permission is hereby granted, free of charge, to any person obtaining a
@@ -48,7 +48,7 @@ setuptools.setup(
      long_description=long_description,
      long_description_content_type="text/markdown",
      license='MIT License',
-     install_requires=['unicorn-binance-websocket-api', 'unicorn-binance-rest-api', 'unicorn-fy'],
+     install_requires=['unicorn-binance-websocket-api', 'unicorn-binance-rest-api', 'unicorn-fy', 'unicorn-binance-local-depth-cache'],
      keywords='',
      project_urls={
         'Documentation': 'https://unicorn-binance-suite.docs.lucit.tech/',
