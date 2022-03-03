@@ -4,14 +4,15 @@
 # File: create_wheel.sh
 #
 # Part of ‘UNICORN Binance Suite’
-# Project website: https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite
-# Documentation: https://unicorn-fy.docs.lucit.tech
+# Project website: https://www.lucit.tech/unicorn-binance-suite.html
+# Github: https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite
+# Documentation: https://unicorn-binance-suite.docs.lucit.tech
 # PyPI: https://pypi.org/project/unicorn-binance-suite
 #
 # Author: LUCIT Systems and Development
 #
-# Copyright (c) 2021-2022, LUCIT Systems and Development (https://www.lucit.tech) and Oliver Zehentleitner
-# All rights reserved.
+# Copyright (c) 2022-2022, LUCIT Systems and Development (https://www.lucit.tech) and Oliver Zehentleitner
+# # All rights reserved.
 #
 # Permission is hereby granted, free of charge, to any person obtaining a
 # copy of this software and associated documentation files (the
@@ -33,7 +34,7 @@
 # IN THE SOFTWARE.
 
 security-check() {
-    echo -n "Did you change the version in \`sphinx conf.py\` and \`unicorn_binance_rest_api_manager.py\`? [yes|NO] "
+    echo -n "Did you change the version in \`sphinx conf.py\` and \`setup.py\`? [yes|NO] "
     local SURE
     read SURE
     if [ "$SURE" != "yes" ]; then

@@ -4,7 +4,8 @@
 # File: setup.py
 #
 # Part of ‘UNICORN Binance Suite’
-# Project website: https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite
+# Project website: https://www.lucit.tech/unicorn-binance-suite.html
+# Github: https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite
 # Documentation: https://unicorn-binance-suite.docs.lucit.tech
 # PyPI: https://pypi.org/project/unicorn-binance-suite
 #
@@ -39,15 +40,17 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
      name='unicorn-binance-suite',
-     version='0.1.0',
+     version='1.0.0',
      author="LUCIT Systems and Development",
      author_email='info@lucit.tech',
      url="https://unicorn-binance-suite.docs.lucit.tech/unicorn-binance-suite",
-     description="The UNICORN Binance Suite is a Python Meta Package of unicorn-fy, unicorn-binance-local-depth-cache, unicorn-binance-rest-api and unicorn-binance-websocket-api.",
+     description="The UNICORN Binance Suite is a Python Meta Package of unicorn-fy, unicorn-binance-local-depth-cache, "
+                 "unicorn-binance-rest-api and unicorn-binance-websocket-api.",
      long_description=long_description,
      long_description_content_type="text/markdown",
      license='MIT License',
-     install_requires=['unicorn-binance-websocket-api', 'unicorn-binance-rest-api', 'unicorn-fy', 'unicorn-binance-local-depth-cache'],
+     install_requires=['unicorn-binance-websocket-api', 'unicorn-binance-rest-api', 'unicorn-fy',
+                       'unicorn-binance-local-depth-cache'],
      keywords='',
      project_urls={
         'Documentation': 'https://unicorn-binance-suite.docs.lucit.tech/',
