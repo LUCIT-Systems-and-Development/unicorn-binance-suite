@@ -1,4 +1,7 @@
+[![GitHub release](https://img.shields.io/github/release/LUCIT-Systems-and-Development/unicorn-binance-suite.svg)](https://pypi.org/project/unicorn-binance-suite/)
+[![GitHub](https://img.shields.io/github/license/LUCIT-Systems-and-Development/unicorn-binance-suite.svg?color=blue)](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/blob/master/LICENSE)
 [![Downloads](https://pepy.tech/badge/unicorn-binance-suite)](https://pepy.tech/project/unicorn-binance-suite)
+[![PyPI - Wheel](https://img.shields.io/pypi/wheel/unicorn-binance-suite.svg?label=PyPI%20wheel)](https://pypi.org/project/unicorn-binance-suite/)
 [![Read the Docs](https://img.shields.io/badge/read-%20docs-yellow)](https://unicorn-binance-suite.docs.lucit.tech/)
 [![Github](https://img.shields.io/badge/source-github-yellow)](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite)
 [![Telegram](https://img.shields.io/badge/chat-telegram-yellow)](https://t.me/unicorndevs)
