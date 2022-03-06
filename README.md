@@ -22,7 +22,7 @@ automated trading systems (bots) that connect to the Binance API.
 - [UNICORN Binance WebSocket API](https://www.lucit.tech/unicorn-binance-websocket-api.html): An unofficial Python API to use the Binance Websocket API`s (com+testnet, com-margin+testnet, com-isolated_margin+testnet, com-futures+testnet, com-coin_futures, us, tr, jex, dex/chain+testnet) in a easy, fast, flexible, robust and fully-featured way.
 
 ### Coming soon
-- [UNICORN Binance Trailing Stop Loss](https://www.lucit.tech/unicorn-binance-trailing-stop-loss.html) A Trailing Stop Loss Python Lib and Command Line Tool
+- [UNICORN Binance Trailing Stop Loss](https://www.lucit.tech/unicorn-binance-trailing-stop-loss.html) A Trailing Stop Loss Python Lib and Command Line Tool.
 
 ## Installation and Upgrade
 ```
