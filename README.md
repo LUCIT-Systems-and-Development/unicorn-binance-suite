@@ -2,6 +2,7 @@
 [![GitHub](https://img.shields.io/github/license/LUCIT-Systems-and-Development/unicorn-binance-suite.svg?color=blue)](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/blob/master/LICENSE)
 [![Downloads](https://pepy.tech/badge/unicorn-binance-suite)](https://pepy.tech/project/unicorn-binance-suite)
 [![PyPI - Wheel](https://img.shields.io/pypi/wheel/unicorn-binance-suite.svg?label=PyPI%20wheel)](https://pypi.org/project/unicorn-binance-suite/)
+[![PyPI - Status](https://img.shields.io/pypi/status/unicorn-binance-suite.svg)](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/issues) 
 [![Read the Docs](https://img.shields.io/badge/read-%20docs-yellow)](https://unicorn-binance-suite.docs.lucit.tech/)
 [![Github](https://img.shields.io/badge/source-github-yellow)](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite)
 [![Telegram](https://img.shields.io/badge/chat-telegram-yellow)](https://t.me/unicorndevs)
@@ -15,7 +16,6 @@
 ## Description
 The [`UNICORN Binance Suite`](https://www.lucit.tech/unicorn-binance-suite.html) is a collection of open source Python packages that are useful for creating
 automated trading systems (bots) that connect to the Binance API.
-
 - [`UnicornFy`](https://www.lucit.tech/unicorn-fy.html): Convert received raw data from crypto exchange API endpoints into well-formed python dictionaries. 
 - [`UNICORN Binance Local Depth Cache`](https://www.lucit.tech/unicorn-binance-local-depth-cache.html): A local Binance DepthCache Manager for Python that supports multiple depth caches in one instance in a easy, fast, flexible, robust and fully-featured way. 
 - [`UNICORN Binance REST API`](https://www.lucit.tech/unicorn-binance-rest-api.html): An unofficial Python API to use the Binance REST API`s (com+testnet, com-margin+testnet, com-isolated_margin+testnet, com-futures+testnet, us, tr) in a easy, fast, flexible, robust and fully-featured way.
