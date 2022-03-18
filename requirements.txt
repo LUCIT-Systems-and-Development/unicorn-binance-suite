@@ -1,3 +1,8 @@
+# Changes must also be made in the following files:
+# ./environment.yml
+# ./setup.py
+# https://github.com/conda-forge/unicorn-binance-suite-feedstock/blob/main/recipe/meta.yaml
+
 unicorn-fy
 unicorn-binance-local-depth-cache
 unicorn-binance-rest-api

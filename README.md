@@ -26,13 +26,20 @@ automated trading systems (bots) that connect to the Binance API.
 - [`UNICORN Binance Trailing Stop Loss`](https://www.lucit.tech/unicorn-binance-trailing-stop-loss.html): A Trailing Stop Loss Python Lib and Command Line Tool.
 
 ## Installation and Upgrade
+
+If you run into errors during the installation take a look [here](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/wiki/Installation).
+
+### A wheel and a source file of the latest release with `pip` from [PyPI](https://pypi.org/project/unicorn-binance-suite/)
 ```
 python3 -m pip install unicorn-binance-suite --upgrade --force-reinstall
 ```
 
 The `--upgrade` flag will not update the `unicorn-binance-suite` dependencies unless you add the `--force-reinstall` flag.
 
-If you run into errors during the installation take a look [here](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/wiki/Installation).
+### A conda package of the latest release with `conda` from [Anaconda](https://anaconda.org/conda-forge/unicorn-binance-suite) via [CONDA-FORGE](https://conda-forge.org).
+`conda install -c conda-forge unicorn-binance-suite`
+
+`conda update -c conda-forge unicorn-binance-suite`
 
 ## Change Log
 Please look for the information in the README.md of the [responsible subrepository](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite#description).
