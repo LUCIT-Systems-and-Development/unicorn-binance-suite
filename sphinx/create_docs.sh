@@ -10,7 +10,7 @@
 # import sys
 # sys.path.insert(0, os.path.abspath('../..'))
 
-# sphinx-apidoc -f -o source/ ../unicorn_binance_websocket_api/
+# sphinx-apidoc -f -o source/ ../unicorn_binance_suite/
 
 # pip install python_docs_theme
 ## edit source/conf.py:
