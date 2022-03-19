@@ -34,7 +34,7 @@ body:
         In which environment is the code executed?
       options:
         - VPS or other cloud hosting
-        - Local server
+        - Local server/workstation
         - Raspberry Pi
 
   - type: dropdown
