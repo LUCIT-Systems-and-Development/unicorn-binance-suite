@@ -68,11 +68,11 @@ body:
       required: false
 
   - type: textarea
-    id: environment
+    id: log
     attributes:
-      label: Installed packages
+      label: Logging output
       description: |
-        Include the contents of the log file here. (REMOVE API_KEY, API_SECRET, LISTEN_KEY!!):
+        Please share the logging output here (REMOVE API_KEY, API_SECRET, LISTEN_KEY!!):
         _Note:_ This will be automatically formatted as code.
       placeholder: "logfile"
       render: shell
