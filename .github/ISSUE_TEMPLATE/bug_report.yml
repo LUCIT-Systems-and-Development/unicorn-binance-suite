@@ -36,7 +36,6 @@ body:
         - VPS or other cloud hosting
         - Local server
         - Raspberry Pi
-          required: true
 
   - type: checkboxes
     id: OS
