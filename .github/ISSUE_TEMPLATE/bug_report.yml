@@ -26,16 +26,16 @@ body:
         - label: I checked the documentation and other Issues. I am using the latest version of this library.
           required: true
 
-  - type: checkboxes
+  - type: dropdown
     id: Envirement
     attributes:
       label: In which hardware environment is the code executed?
       description: |
         In which environment is the code executed?
       options:
-        - label: VPS or other cloud hosting
-        - label: Local server
-        - label: Raspberry Pi
+        - VPS or other cloud hosting
+        - Local server
+        - Raspberry Pi
           required: true
 
   - type: checkboxes
