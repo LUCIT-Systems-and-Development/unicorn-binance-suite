@@ -2,7 +2,6 @@ name: Bug report
 description: Report a bug with this package.
 labels: bug
 body:
-  test text
   - type: markdown
     attributes:
       value: |
