@@ -37,31 +37,29 @@ body:
         - Local server
         - Raspberry Pi
 
-  - type: checkboxes
+  - type: dropdown
     id: OS
     attributes:
       label: Operating System?
       description: |
         In which operating system is the code executed?
       options:
-        - label: macOS
-        - label: Windows
-        - label: Linux
-          required: true
+        - macOS
+        - Windows
+        - Linux
 
-  - type: checkboxes
+  - type: dropdown
     id: Python
     attributes:
       label: Python version?
       description: |
         In which Python version is the code executed?
       options:
-        - label: Python3.7
-        - label: Python3.8
-        - label: Python3.9
-        - label: Python3.10
-          required: true
-
+        - Python3.7
+        - Python3.8
+        - Python3.9
+        - Python3.10
+         
   - type: textarea
     id: Packages
     attributes:
@@ -86,40 +84,38 @@ body:
     validations:
       required: false
 
-  - type: checkboxes
+  - type: dropdown
     id: Processing
     attributes:
       label: Processing method?
       description: |
         Are you using the `stream_buffer` or the `process_stream_data`-callback function?
       options:
-        - label: stream_buffer
-        - label: process_stream_data
-          required: true
-
-  - type: checkboxes
+        - stream_buffer
+        - process_stream_data
+         
+  - type: dropdown
     id: Endpoint
     attributes:
       label: Which endpoint do you connect?
       description: |
         To which endpoint do you connect?
       options:
-        - label: binance.com
-        - label: binance.com-testnet
-        - label: binance.com-margin
-        - label: binance.com-margin-testnet
-        - label: binance.com-isolated_margin
-        - label: binance.com-isolated_margin-testnet
-        - label: binance.com-futures
-        - label: binance.com-futures-testnet
-        - label: binance.com-coin_futures
-        - label: binance.us
-        - label: trbinance.com
-        - label: jex.com
-        - label: binance.org
-        - label: binance.org-testnet              
-          required: true
-
+        - binance.com
+        - binance.com-testnet
+        - binance.com-margin
+        - binance.com-margin-testnet
+        - binance.com-isolated_margin
+        - binance.com-isolated_margin-testnet
+        - binance.com-futures
+        - binance.com-futures-testnet
+        - binance.com-coin_futures
+        - binance.us
+        - trbinance.com
+        - jex.com
+        - binance.org
+        - binance.org-testnet              
+         
   - type: textarea
     id: Issue
     attributes:
