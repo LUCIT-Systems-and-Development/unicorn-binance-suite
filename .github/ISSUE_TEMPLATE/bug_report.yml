@@ -7,12 +7,21 @@ body:
       value: |
         Please post here only issues concerning this repository.
 
+  - type: textarea
+    id: Version
+    attributes:
+      label: Version of this library.
+      description: |
+        Please control what version you are using with this script and post the output: https://github.com/LUCIT-Systems-and-Development/unicorn-binance-websocket-api/blob/master/tools/get_used_module_version.py
+    validations:
+      required: true
+      
   - type: checkboxes
     id: Confirmation
     attributes:
       label: Solution to Issue cannot be found in the documentation or other Issues and also occurs in the latest version of this library.
       description: |
-        I have searched for other Issues with the same problem or similar feature requests and have looked in the documentation. This issue also affects the latest version of this library. Please control what version you are using with this script and post the output: https://github.com/LUCIT-Systems-and-Development/unicorn-binance-websocket-api/blob/master/tools/get_used_module_version.py
+        I have searched for other Issues with the same problem or similar feature requests and have looked in the documentation. This issue also affects the latest version of this library. 
       options:
         - label: I checked the documentation and other Issues. I am using the latest version of this library.
           required: true
@@ -40,7 +49,6 @@ body:
         - label: Windows
         - label: Linux
           required: true
-
 
   - type: checkboxes
     id: Python
@@ -78,7 +86,6 @@ body:
       render: shell
     validations:
       required: false
-
 
   - type: checkboxes
     id: Processing
