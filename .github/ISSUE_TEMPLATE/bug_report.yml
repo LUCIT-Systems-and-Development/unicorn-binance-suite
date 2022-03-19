@@ -8,7 +8,7 @@ body:
         Please post here only issues concerning this repository.
 
   - type: checkboxes
-    id: confirmation
+    id: Confirmation
     attributes:
       label: Solution to Issue cannot be found in the documentation or other Issues and also occurs in the latest version of this library.
       description: |
@@ -18,7 +18,7 @@ body:
           required: true
 
   - type: checkboxes
-    id: envirement
+    id: Envirement
     attributes:
       label: In which hardware environment is the code executed?
       description: |
@@ -30,7 +30,7 @@ body:
           required: true
 
   - type: checkboxes
-    id: os
+    id: OS
     attributes:
       label: Operating System?
       description: |
@@ -43,7 +43,7 @@ body:
 
 
   - type: checkboxes
-    id: python
+    id: Python
     attributes:
       label: Python version?
       description: |
@@ -56,7 +56,7 @@ body:
           required: true
 
   - type: textarea
-    id: packages
+    id: Packages
     attributes:
       label: Installed packages
       description: |
@@ -68,7 +68,7 @@ body:
       required: false
 
   - type: textarea
-    id: log
+    id: Log
     attributes:
       label: Logging output
       description: |
@@ -81,7 +81,7 @@ body:
 
 
   - type: checkboxes
-    id: os
+    id: Processing
     attributes:
       label: Processing method?
       description: |
@@ -92,7 +92,7 @@ body:
           required: true
 
   - type: checkboxes
-    id: endpoint
+    id: Endpoint
     attributes:
       label: Which endpoint do you connect?
       description: |
