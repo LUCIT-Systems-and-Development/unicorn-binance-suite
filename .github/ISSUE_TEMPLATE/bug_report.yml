@@ -1,20 +1,117 @@
 name: Bug report
-description: Report a bug with this package.
+description: Report a bug with this library.
 labels: bug
 body:
   - type: markdown
     attributes:
       value: |
-        Please note that only issues related to the installation of this package should be reported here. For issues that are not related to the conda-forge process, please contact the maintainers of the package.
+        Please post here only issues concerning this repository.
 
   - type: checkboxes
-    id: documentation
+    id: confirmation
     attributes:
-      label: Solution to issue cannot be found in the documentation.
+      label: Solution to Issue cannot be found in the documentation or other Issues and also occurs in the latest version of this library.
       description: |
-        I read [the conda-forge documentation](https://conda-forge.org/docs/user/introduction.html#how-can-i-install-packages-from-conda-forge) and could not find the solution for my problem there.
+        I have searched for other Issues with the same problem or similar feature requests and have looked in the documentation. This issue also affects the latest version of this library. Please control what version you are using with this script and post the output: https://github.com/LUCIT-Systems-and-Development/unicorn-binance-websocket-api/blob/master/tools/get_used_module_version.py
       options:
-        - label: I checked the documentation.
+        - label: I checked the documentation and other Issues. I am using the latest version of this library.
+          required: true
+
+  - type: checkboxes
+    id: envirement
+    attributes:
+      label: In which hardware environment is the code executed?
+      description: |
+        In which environment is the code executed?
+      options:
+        - label: VPS or other cloud hosting
+        - label: Local server
+        - label: Raspberry Pi
+          required: true
+
+  - type: checkboxes
+    id: os
+    attributes:
+      label: Operating System?
+      description: |
+        In which operating system is the code executed?
+      options:
+        - label: macOS
+        - label: Windows
+        - label: Linux
+          required: true
+
+
+  - type: checkboxes
+    id: python
+    attributes:
+      label: Python version?
+      description: |
+        In which Python version is the code executed?
+      options:
+        - label: Python3.7
+        - label: Python3.8
+        - label: Python3.9
+        - label: Python3.10
+          required: true
+
+  - type: textarea
+    id: packages
+    attributes:
+      label: Installed packages
+      description: |
+        Please share your installed packages by running `pip list` or `conda list` and entering the output below:
+        _Note:_ This will be automatically formatted as code.
+      placeholder: "`pip list` or `conda list`"
+      render: shell
+    validations:
+      required: false
+
+  - type: textarea
+    id: environment
+    attributes:
+      label: Installed packages
+      description: |
+        Include the contents of the log file here. (REMOVE API_KEY, API_SECRET, LISTEN_KEY!!):
+        _Note:_ This will be automatically formatted as code.
+      placeholder: "logfile"
+      render: shell
+    validations:
+      required: false
+
+
+  - type: checkboxes
+    id: os
+    attributes:
+      label: Processing method?
+      description: |
+        Are you using the `stream_buffer` or the `process_stream_data`-callback function?
+      options:
+        - label: stream_buffer
+        - label: process_stream_data
+          required: true
+
+  - type: checkboxes
+    id: endpoint
+    attributes:
+      label: Which endpoint do you connect?
+      description: |
+        To which endpoint do you connect?
+      options:
+        - label: binance.com
+        - label: binance.com-testnet
+        - label: binance.com-margin
+        - label: binance.com-margin-testnet
+        - label: binance.com-isolated_margin
+        - label: binance.com-isolated_margin-testnet
+        - label: binance.com-futures
+        - label: binance.com-futures-testnet
+        - label: binance.com-coin_futures
+        - label: binance.us
+        - label: trbinance.com
+        - label: jex.com
+        - label: binance.org
+        - label: binance.org-testnet              
           required: true
 
   - type: textarea
@@ -25,27 +122,4 @@ body:
         Please describe the issue you are experiencing:
     validations:
       required: true
-
-  - type: textarea
-    id: environment
-    attributes:
-      label: Installed packages
-      description: |
-        Please share your installed packages by running `conda list` and entering the output below:
-        _Note:_ This will be automatically formatted as code.
-      placeholder: "conda list"
-      render: shell
-    validations:
-      required: true
-
-  - type: textarea
-    id: info
-    attributes:
-      label: Environment info
-      description: |
-        Please share your environment by running `conda info` and entering the output below:
-        _Note:_ This will be automatically formatted as code.
-      placeholder: "conda info"
-      render: shell
-    validations:
-      required: true
+      
