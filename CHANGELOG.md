@@ -7,7 +7,10 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 [Discussions about unicorn-fy releases!](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/discussions/categories/releases)
 
-## 1.0.1.dev (development stage/unreleased/unstable)
+## 1.0.2.dev (development stage/unreleased/unstable)
+
+## 1.0.2
+Testing azure pipe
 
 ## 1.0.1
 PYPI and Conda integration
