@@ -47,9 +47,13 @@ The `--upgrade` flag will not update the `unicorn-binance-suite` dependencies un
 `conda update -c conda-forge unicorn-binance-suite`
 
 ## Change Log
+[https://unicorn-binance-suite.docs.lucit.tech//CHANGELOG.html](https://unicorn-binance-suite.docs.lucit.tech//CHANGELOG.html)
+
 Please look for the information in the README.md of the [responsible subrepository](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite#description).
 
 ## Documentation
+- [General](https://unicorn-binance-suite.docs.lucit.tech/)
+
 Please look for the information in the README.md of the [responsible subrepository](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite#description).
 
 ## Project Homepage
