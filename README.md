@@ -11,6 +11,7 @@
 [![Read the Docs](https://img.shields.io/badge/read-%20docs-yellow)](https://unicorn-binance-suite.docs.lucit.tech/)
 [![Github](https://img.shields.io/badge/source-github-yellow)](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite)
 [![Telegram](https://img.shields.io/badge/chat-telegram-yellow)](https://t.me/unicorndevs)
+[![Gitter](https://badges.gitter.im/unicorn-binance-suite/community.svg)](https://gitter.im/unicorn-binance-suite/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 # UNICORN Binance Suite
 [Description](#description) | [Installation](#installation-and-upgrade) | [Change Log](#change-log) | 
@@ -80,7 +81,7 @@ Please look for the information in the README.md of the [responsible subreposito
 Please look for the information in the README.md of the [responsible subrepository](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite#description).
 
 ## Commercial Support
-[![LUCIT](https://www.lucit.tech/files/images/logos/LUCIT-LOGO.png)](https://www.lucit.tech)
+[![LUCIT](https://www.lucit.tech/files/images/logos/LUCIT-LOGO.png)](https://www.lucit.tech) [![Join the chat at https://gitter.im/unicorn-binance-suite/unicorn-binance-suite](https://badges.gitter.im/unicorn-binance-suite/unicorn-binance-suite.svg)](https://gitter.im/unicorn-binance-suite/unicorn-binance-suite?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ***Do you need a developer, operator or consultant?***
 
