@@ -80,7 +80,7 @@ Please look for the information in the README.md of the [responsible subreposito
 Please look for the information in the README.md of the [responsible subrepository](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite#description).
 
 ## Commercial Support
-[![LUCIT](https://www.lucit.tech/files/images/logos/LUCIT-LOGO.png)](https://www.lucit.tech)
+[![LUCIT](https://www.lucit.tech/files/images/logos/LUCIT-LOGO.png)](https://www.lucit.tech) [![Join the chat at https://gitter.im/unicorn-binance-suite/community](https://badges.gitter.im/unicorn-binance-suite/community.svg)](https://gitter.im/unicorn-binance-suite/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ***Do you need a developer, operator or consultant?***
 
