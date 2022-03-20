@@ -27,15 +27,15 @@ body:
           required: true
 
   - type: dropdown
-    id: Envirement
+    id: Hardware
     attributes:
-      label: In which hardware environment is the code executed?
+      label: Hardware?
       description: |
-        In which environment is the code executed?
+        In which hardware environment is the code executed?
       options:
-        - VPS or other cloud hosting
         - Local server/workstation
         - Raspberry Pi
+        - VPS or other cloud hosting
 
   - type: dropdown
     id: OS
@@ -97,7 +97,7 @@ body:
   - type: dropdown
     id: Endpoint
     attributes:
-      label: Which endpoint do you connect?
+      label: Used endpoint?
       description: |
         To which endpoint do you connect?
       options:
