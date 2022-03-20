@@ -54,8 +54,10 @@ setuptools.setup(
      keywords='',
      project_urls={
         'Documentation': 'https://unicorn-binance-suite.docs.lucit.tech/',
-        'Changes': 'https://unicorn-binance-suite.docs.lucit.tech/',
+        'Changes': 'https://unicorn-binance-suite.docs.lucit.tech//CHANGELOG.html',
+        'Issue Tracker': 'https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/issues',
         'Wiki': 'https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/wiki',
+        'Chat': 'https://t.me/unicorndevs',
         'Author': 'https://www.lucit.tech',
      },
      python_requires='>=3.7.0',
