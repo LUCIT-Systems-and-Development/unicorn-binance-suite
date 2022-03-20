@@ -13,7 +13,7 @@
 [![Telegram](https://img.shields.io/badge/chat-telegram-yellow)](https://t.me/unicorndevs)
 
 # UNICORN Binance Suite
-[Description](#description) | [Installation](#installation-and-upgrade) |
+[Description](#description) | [Installation](#installation-and-upgrade) | [Change Log](#change-log) | 
 [Documentation](#documentation) | [Social](#social) |
 [Notifications](#receive-notifications) | [Bugs](#how-to-report-bugs-or-suggest-improvements) | 
 [Contributing](#contributing) | [Commercial Support](#commercial-support)
