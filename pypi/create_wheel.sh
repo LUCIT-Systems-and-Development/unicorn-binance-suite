@@ -34,7 +34,7 @@
 # IN THE SOFTWARE.
 
 security-check() {
-    echo -n "Did you change the version in \`sphinx conf.py\` and \`setup.py\`? [yes|NO] "
+    echo -n "Did you change the version in \`CHANGELOG.md\`, \`sphinx conf.py\` and \`setup.py\`? [yes|NO] "
     local SURE
     read SURE
     if [ "$SURE" != "yes" ]; then
