@@ -38,7 +38,7 @@ body:
       required: false
 
   - type: textarea
-    id: Alternatives
+    id: Additional
     attributes:
       label: Additional context
       description: |
