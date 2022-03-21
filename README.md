@@ -86,4 +86,4 @@ Please look for the information in the README.md of the [responsible subreposito
 ***Do you need a developer, operator or consultant?***
 
 Contact [me](https://about.me/oliver-zehentleitner) for a non-binding initial consultation via my company 
-[LUCIT](https://www.lucit.tech) from Vienna (Austria) or via [Telegram](https://t.me/LUCIT_OZ).
+[LUCIT](https://www.lucit.tech) from Vienna (Austria) or via [Telegram](https://t.me/LUCIT_OZ)/[WhatsApp](https://wa.me/436602456535).
