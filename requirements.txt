@@ -6,4 +6,5 @@
 unicorn-fy
 unicorn-binance-local-depth-cache
 unicorn-binance-rest-api
+unicorn-binance-trailing-stop-loss
 unicorn-binance-websocket-api
