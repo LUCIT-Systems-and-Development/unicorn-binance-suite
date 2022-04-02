@@ -50,7 +50,7 @@ setuptools.setup(
      long_description_content_type="text/markdown",
      license='MIT License',
      install_requires=['unicorn-binance-websocket-api', 'unicorn-binance-rest-api', 'unicorn-fy',
-                       'unicorn-binance-local-depth-cache'],
+                       'unicorn-binance-local-depth-cache', 'unicorn-binance-trailing-stop-loss'],
      keywords='',
      project_urls={
         'Documentation': 'https://unicorn-binance-suite.docs.lucit.tech/',
