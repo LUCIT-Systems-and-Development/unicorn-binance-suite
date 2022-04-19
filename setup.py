@@ -40,12 +40,12 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
      name='unicorn-binance-suite',
-     version='1.0.2',
+     version='1.1.0',
      author="LUCIT Systems and Development",
      author_email='info@lucit.tech',
      url="https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite",
      description="The UNICORN Binance Suite is a Python Meta Package of unicorn-fy, unicorn-binance-local-depth-cache, "
-                 "unicorn-binance-rest-api and unicorn-binance-websocket-api.",
+                 "unicorn-binance-rest-api, unicorn-binance-trailing-stop-loss and unicorn-binance-websocket-api.",
      long_description=long_description,
      long_description_content_type="text/markdown",
      license='MIT License',

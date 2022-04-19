@@ -7,7 +7,11 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 [Discussions about unicorn-fy releases!](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/discussions/categories/releases)
 
-## 1.0.2.dev (development stage/unreleased/unstable)
+## 1.1.0.dev (development stage/unreleased/unstable)
+
+## 1.1.0
+## Adding 
+- unicorn-binance-trailing-stop-loss
 
 ## 1.0.2
 Testing azure pipe
