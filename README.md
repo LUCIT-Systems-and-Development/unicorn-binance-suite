@@ -15,9 +15,8 @@
 
 # UNICORN Binance Suite
 [Description](#description) | [Installation](#installation-and-upgrade) | [Change Log](#change-log) | 
-[Documentation](#documentation) | [Social](#social) |
-[Notifications](#receive-notifications) | [Bugs](#how-to-report-bugs-or-suggest-improvements) | 
-[Contributing](#contributing) | [Commercial Support](#commercial-support)
+[Documentation](#documentation) | [Social](#social) | [Notifications](#receive-notifications) | [Bugs](#how-to-report-bugs-or-suggest-improvements) | 
+[Contributing](#contributing) | [Disclaimer](#disclaimer) | [Commercial Support](#commercial-support)
 
 ## Description
 The [`UNICORN Binance Suite`](https://www.lucit.tech/unicorn-binance-suite.html) is a collection of open source Python packages that are useful for creating
@@ -77,6 +76,19 @@ Please look for the information in the README.md of the [responsible subreposito
 
 ## Contributing
 Please look for the information in the README.md of the [responsible subrepository](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite#description).
+
+## Disclaimer
+This project is for informational purposes only. You should not construe this information or any other material as 
+legal, tax, investment, financial or other advice. Nothing contained herein constitutes a solicitation, recommendation, 
+endorsement or offer by us or any third party provider to buy or sell any securities or other financial instruments in 
+this or any other jurisdiction in which such solicitation or offer would be unlawful under the securities laws of such 
+jurisdiction.
+
+***If you intend to use real money, use it at your own risk.***
+
+Under no circumstances will we be responsible or liable for any claims, damages, losses, expenses, costs or liabilities 
+of any kind, including but not limited to direct or indirect damages for loss of profits.
+
 
 ## Commercial Support
 [![LUCIT](https://www.lucit.tech/files/images/logos/LUCIT-LOGO.png)](https://www.lucit.tech)
