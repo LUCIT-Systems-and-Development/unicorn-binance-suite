@@ -52,14 +52,24 @@ try:
     ubldc.stop_manager_with_all_depth_caches()
 except ModuleNotFoundError:
     ubldc_version = "not found"
-except AttributeError:
-    pass
+except AttributeError as error_msg:
+    print(f"error ubldc: {error_msg}")
+    ubldc_version = "not found"
 
 try:
     import unicorn_binance_rest_api
     ubra_version = unicorn_binance_rest_api.BinanceRestApiManager(warn_on_update=False).get_version()
 except ModuleNotFoundError:
     ubra_version = "not found"
+
+try:
+    import unicorn_binance_trailing_stop_loss
+    ubtsl = unicorn_binance_trailing_stop_loss.BinanceTrailingStopLossManager(start_engine=False)
+    ubtsl_version = ubtsl.get_version()
+    ubtsl.stop_manager()
+except ModuleNotFoundError:
+    ubtsl_version = "not found"
+
 
 try:
     import unicorn_binance_websocket_api
@@ -74,4 +84,5 @@ print(f"Please post this to your github issue:")
 print(f"unicorn_fy: {unify_version}")
 print(f"unicorn_binance_local_depth_cache: {ubldc_version}")
 print(f"unicorn_binance_rest_api: {ubra_version}")
+print(f"unicorn_binance_trailing_stop_loss: {ubtsl_version}")
 print(f"unicorn_binance_websocket_api: {ubwa_version}")
