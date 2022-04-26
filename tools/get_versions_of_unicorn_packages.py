@@ -64,12 +64,11 @@ except ModuleNotFoundError:
 
 try:
     import unicorn_binance_trailing_stop_loss
-    ubtsl = unicorn_binance_trailing_stop_loss.BinanceTrailingStopLossManager(start_engine=False)
+    ubtsl = unicorn_binance_trailing_stop_loss.BinanceTrailingStopLossManager(warn_on_update=False, start_engine=False)
     ubtsl_version = ubtsl.get_version()
     ubtsl.stop_manager()
 except ModuleNotFoundError:
     ubtsl_version = "not found"
-
 
 try:
     import unicorn_binance_websocket_api
