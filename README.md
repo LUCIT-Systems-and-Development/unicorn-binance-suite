@@ -1,3 +1,5 @@
+[![LUCIT-UBS-Banner](https://raw.githubusercontent.com/lucit-systems-and-development/unicorn-binance-suite/master/images/logo/LUCIT-UBS-Banner-Readme.png)](https://www.lucit.tech/unicorn-binance-suite.html)
+
 [![GitHub Release](https://img.shields.io/github/release/LUCIT-Systems-and-Development/unicorn-binance-suite.svg?label=github)](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/releases)
 [![GitHub Downloads](https://img.shields.io/github/downloads/LUCIT-Systems-and-Development/unicorn-binance-suite/total?color=blue)](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/releases)
 [![Conda Release](https://img.shields.io/conda/vn/conda-forge/unicorn-binance-suite.svg?color=blue)](https://anaconda.org/conda-forge/unicorn-binance-suite)
