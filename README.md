@@ -33,6 +33,10 @@ automated trading systems (bots) that connect to the Binance API.
 - [`UNICORN Binance Trailing Stop Loss`](https://www.lucit.tech/unicorn-binance-trailing-stop-loss.html): A Trailing Stop Loss Python Lib and [Command Line Tool](https://www.lucit.tech/ubtsl-cli.html) as well as a [standalone version for Windows and Mac](https://www.lucit.tech/unicorn-binance-trailing-stop-loss-bot.html) that does not require an installed Python environment.
 - [`UNICORN Binance WebSocket API`](https://www.lucit.tech/unicorn-binance-websocket-api.html): An unofficial Python API to use the Binance Websocket API`s (com+testnet, com-margin+testnet, com-isolated_margin+testnet, com-futures+testnet, com-coin_futures, us, tr, jex, dex/chain+testnet) in a easy, fast, flexible, robust and fully-featured way.
 
+If you like the project, please 
+[![star](https://raw.githubusercontent.com/lucit-systems-and-development/unicorn-binance-suite/master/images/misc/star.png)](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/stargazers) it on 
+[GitHub](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite)! 
+
 ## Installation and Upgrade
 
 If you run into errors during the installation take a look [here](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/wiki/Installation).
