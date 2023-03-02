@@ -42,9 +42,7 @@ If you like the project, please
 If you run into errors during the installation take a look [here](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/wiki/Installation).
 
 ### A wheel and a source file of the latest release with `pip` from [PyPI](https://pypi.org/project/unicorn-binance-suite/)
-```
-python3 -m pip install unicorn-binance-suite --upgrade --force-reinstall
-```
+`python3 -m pip install unicorn-binance-suite --upgrade --force-reinstall`
 
 The `--upgrade` flag will not update the `unicorn-binance-suite` dependencies unless you add the `--force-reinstall` flag.
 
