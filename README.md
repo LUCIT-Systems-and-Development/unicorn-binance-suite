@@ -53,6 +53,32 @@ The `--upgrade` flag will not update the `unicorn-binance-suite` dependencies un
 
 `conda update -c conda-forge unicorn-binance-suite`
 
+### From source of the latest release with PIP from [Github](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite)
+#### Linux, macOS, ...
+Run in bash:
+
+`pip install https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/archive/$(curl -s https://api.github.com/repos/LUCIT-Systems-and-Development/unicorn-binance-suite/releases/latest | grep -oP '"tag_name": "\K(.*)(?=")').tar.gz --upgrade`
+
+#### Windows
+Use the below command with the version (such as 1.1.0) you determined 
+[here](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/releases/latest):
+
+`pip install https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/archive/1.1.0.tar.gz --upgrade`
+
+### From the latest source (dev-stage) with PIP from [Github](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite)
+This is not a release version and can not be considered to be stable!
+
+`pip install https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/tarball/master --upgrade`
+
+### [Conda environment](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html), [Virtualenv](https://virtualenv.pypa.io/en/latest/) or plain [Python](https://www.python.org)
+Download the [latest release](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/releases/latest) 
+or the [current master branch](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/archive/master.zip)
+ and use:
+ 
+- ./environment.yml
+- ./requirements.txt
+- ./setup.py
+
 ## Change Log
 [https://unicorn-binance-suite.docs.lucit.tech//CHANGELOG.html](https://unicorn-binance-suite.docs.lucit.tech//CHANGELOG.html)
 
