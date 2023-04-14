@@ -18,7 +18,7 @@
 [![LUCIT-UBS-Banner](https://raw.githubusercontent.com/LUCIT-Systems-and-Development/unicorn-binance-suite/master/images/logo/LUCIT-UBS-Banner-Readme.png)](https://www.lucit.tech/unicorn-binance-suite.html)
 
 # UNICORN Binance Suite
-[Description](#description) | [Installation](#installation-and-upgrade) | [Change Log](#change-log) | 
+[Description](#description) | [Installation](#installation-and-upgrade) | [How To](#howto) | [Change Log](#change-log) | 
 [Documentation](#documentation) | [Social](#social) | [Notifications](#receive-notifications) | [Bugs](#how-to-report-bugs-or-suggest-improvements) | 
 [Contributing](#contributing) | [Leave a review](#you-want-to-say-thank-you) | [Leave a review](#you-want-to-say-thank-you) | 
 [Disclaimer](#disclaimer) | [Commercial Support](#commercial-support)
@@ -86,6 +86,9 @@ Please look for the information in the README.md of the [responsible subreposito
 - [General](https://unicorn-binance-suite.docs.lucit.tech/)
 
 Please look for the information in the README.md of the [responsible subrepository](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite#description).
+
+## Howto
+- [Instructions about the UNICORN Binance Suite](https://medium.lucit.tech/unicorn-binance-suite/home)
 
 ## Project Homepage
 [https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite)
