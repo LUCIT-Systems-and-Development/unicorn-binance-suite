@@ -7,7 +7,7 @@
 [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/unicorn-binance-suite.svg?color=blue)](https://anaconda.org/conda-forge/unicorn-binance-suite)
 [![PyPi Release](https://img.shields.io/pypi/v/unicorn-binance-suite?color=blue)](https://pypi.org/project/unicorn-binance-suite/)
 [![PyPi Downloads](https://pepy.tech/badge/unicorn-binance-suite)](https://pepy.tech/project/unicorn-binance-suite)
-[![License](https://img.shields.io/github/license/LUCIT-Systems-and-Development/unicorn-binance-suite.svg?color=blue)](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/blob/master/LICENSE)
+[![License](https://img.shields.io/badge/license-LSOSL-blue)](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-websocket-api/blob/master/LICENSE)
 [![Supported Python Version](https://img.shields.io/pypi/pyversions/unicorn_binance_suite.svg)](https://www.python.org/downloads/)
 [![PyPI - Status](https://img.shields.io/pypi/status/unicorn_binance_suite.svg)](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/issues)
 [![Azure Pipelines](https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/unicorn-binance-suite-feedstock?branchName=main)](https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=15707&branchName=main)
