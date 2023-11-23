@@ -144,21 +144,21 @@ or the [current master branch](https://github.com/LUCIT-Systems-and-Development/
 - ./setup.py
 
 ## Change Log
-[https://unicorn-binance-suite.docs.lucit.tech//changelog.html](https://unicorn-binance-suite.docs.lucit.tech/changelog.html)
+[https://unicorn-binance-suite.docs.lucit.tech/changelog.html](https://unicorn-binance-suite.docs.lucit.tech/changelog.html)
 
-Please look for the information in the README.md of the [responsible subrepository](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite#description).
+Please look for the information in the README.md of the [responsible subrepository](https://www.lucit.tech/unicorn-binance-suite.html#modules-of-the-unicorn-binance-suite).
 
 ## Documentation
 - [General](https://unicorn-binance-suite.docs.lucit.tech/)
 
-Please look for the information in the README.md of the [responsible subrepository](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite#description).
+Please look for the information in the README.md of the [responsible subrepository](https://www.lucit.tech/unicorn-binance-suite.html#modules-of-the-unicorn-binance-suite).
 
 ## Howto
 - [How to Obtain and Use a Unicorn Binance Suite License Key and Run the UBS Module According to Best Practice](https://medium.lucit.tech/how-to-obtain-and-use-a-unicorn-binance-suite-license-key-and-run-the-ubs-module-according-to-best-87b0088124a8)
 - [Instructions about the UNICORN Binance Suite](https://medium.lucit.tech/unicorn-binance-suite/home)
 
 ## Project Homepage
-[https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite)
+[https://www.lucit.tech/unicorn-binance-suite.html](https://www.lucit.tech/unicorn-binance-suite.html)
 
 ## Wiki
 [https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/wiki](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/wiki)
