@@ -20,7 +20,7 @@ sys.path.insert(0, os.path.abspath('../../..'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'unicorn-binance-suite'
+project = 'unicorn_binance_suite'
 copyright = '2019-2023, LUCIT Systems and Development. All Rights Reserved.'
 author = 'LUCIT Systems and Development'
 
@@ -85,7 +85,7 @@ pygments_style = None
 
 html_theme = 'python_docs_theme_lucit'
 html_context = {'github_user_name': 'LUCIT-Systems-and-Development',
-                'github_repo_name': 'unicorn-binance-suite',
+                'github_repo_name': 'unicorn_binance_suite',
                 'project_name': project,
                 'matomo_url': "https://webmon.lucit.services/matomo.php?idsite=5&amp;rec=1",
                 'freshchat_src': "//eu.fw-cdn.com/10659511/361973.js",
@@ -144,7 +144,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'unicorn-binance-suite.tex', 'unicorn-binance-suite Documentation',
+    (master_doc, 'unicorn_binance_suite.tex', 'unicorn_binance_suite Documentation',
      'LUCIT Systems and Development', 'manual'),
 ]
 
@@ -154,7 +154,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'unicorn-binance-suite', 'unicorn-binance-suite Documentation',
+    (master_doc, 'unicorn_binance_suite', 'unicorn_binance_suite Documentation',
      [author], 1)
 ]
 
@@ -165,8 +165,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'unicorn-binance-suite', 'unicorn-binance-suite Documentation',
-     author, 'unicorn-binance-suite', 'One line description of project.',
+    (master_doc, 'unicorn_binance_suite', 'unicorn_binance_suite Documentation',
+     author, 'unicorn_binance_suite', 'One line description of project.',
      'Miscellaneous'),
 ]
 

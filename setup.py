@@ -24,7 +24,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setup(
-     name='unicorn-binance-suite',
+     name='unicorn_binance_suite',
      version='1.1.0',
      author="LUCIT Systems and Development",
      author_email='info@lucit.tech',
