@@ -53,8 +53,8 @@ architecture and Python version used.
 - [`UNICORN Binance Trailing Stop Loss`](https://www.lucit.tech/unicorn-binance-trailing-stop-loss.html): A Trailing Stop Loss Python Lib and [Command Line Tool](https://www.lucit.tech/ubtsl-cli.html).
 - [`UNICORN Binance WebSocket API`](https://www.lucit.tech/unicorn-binance-websocket-api.html): An unofficial Python API to use the Binance Websocket API`s (com+testnet, com-margin+testnet, com-isolated_margin+testnet, com-futures+testnet, com-coin_futures, us, tr, dex/chain+testnet) in a easy, fast, flexible, robust and fully-featured way.
 
-If you like the project, please 
-[![star](https://raw.githubusercontent.com/lucit-systems-and-development/unicorn-binance-suite/master/images/misc/star.png)](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/stargazers) it on 
+If you like our projects, please 
+[![star](https://raw.githubusercontent.com/lucit-systems-and-development/unicorn-binance-suite/master/images/misc/star.png)](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/stargazers) them on 
 [GitHub](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite)! 
 
 ## Get a UNICORN Binance Suite License
@@ -167,15 +167,16 @@ Please look for the information in the README.md of the [responsible subreposito
 - [https://community.binance.org](https://community.binance.org)
 
 ## Receive Notifications
-Follow us on [Twitter](https://twitter.com/LUCIT_SysDev) or on [Facebook](https://www.facebook.com/lucit.systems.and.development) for general news about the [unicorn-binance-suite](https://www.lucit.tech/unicorn-binance-suite.html)!
+Follow us on [LinkedIn](https://www.linkedin.com/company/lucit-systems-and-development), 
+[X](https://twitter.com/LUCIT_SysDev) or [Facebook](https://www.facebook.com/lucit.systems.and.development)!
 
-Please look for the information in the README.md of the [responsible subrepository](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite#description) for spezific notifications.
+Please look for the information in the README.md of the [responsible subrepository](https://www.lucit.tech/unicorn-binance-suite.html#modules-of-the-unicorn-binance-suite) for spezific notifications.
 
 ## How to report Bugs or suggest Improvements?
-Please look for the information in the README.md of the [responsible subrepository](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite#description).
+Please look for the information in the README.md of the [responsible subrepository](https://www.lucit.tech/unicorn-binance-suite.html#modules-of-the-unicorn-binance-suite).
 
 ## Contributing
-Please look for the information in the README.md of the [responsible subrepository](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite#description).
+Please look for the information in the README.md of the [responsible subrepository](https://www.lucit.tech/unicorn-binance-suite.html#modules-of-the-unicorn-binance-suite).
 
 ## Disclaimer
 This project is for informational purposes only. You should not construe this information or any other material as 
