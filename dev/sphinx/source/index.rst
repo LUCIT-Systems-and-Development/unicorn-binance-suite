@@ -10,10 +10,13 @@ Welcome to unicorn-binance-suite's documentation!
    :maxdepth: 3
    :caption: Contents:
 
-   Readme <README.md>
-   ChangeLog <CHANGELOG.md>
-   Copyright <copyright.rst>
-
+   Readme <readme.md>
+   Modules <modules.rst>
+   ChangeLog <changelog.md>
+   Code of Conduct <code_of_conduct.md>
+   Contributing <contributing.md>
+   License <license.rst>
+   Security <security.md>
 
 Indices and tables
 ==================

@@ -1,10 +1,16 @@
 name: unicorn-binance-suite
+
+channels:
+  - lucit
+  - conda-forge
+  - defaults
+
 dependencies:
-- python>=3.7.0
-- pip:
-  - unicorn-fy
-  - unicorn-binance-local-depth-cache
-  - unicorn-binance-rest-api
-  - unicorn-binance-trailing-stop-loss
-  - unicorn-binance-websocket-api
+  - python>=3.7
+  - lucit::lucit-licensing-python = ">=1.8.1"
+  - lucit::unicorn-fy = ">=0.13.1"
+  - lucit::unicorn-binance-local-depth-cache = ">=1.0.0"
+  - lucit::unicorn-binance-rest-api = ">=2.1.2"
+  - lucit::unicorn-binance-websocket-api = ">=2.1.2"
+  - lucit::unicorn-binance-trailing-stop-loss = ">=1.0.0"
   

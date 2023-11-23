@@ -1,10 +1,11 @@
 # Changes must also be made in the following files:
 # ./environment.yml
+# ./meta.yaml
+# ./pyproject.toml
 # ./setup.py
-# https://github.com/conda-forge/unicorn-binance-suite-feedstock/blob/main/recipe/meta.yaml
 
-unicorn-fy
-unicorn-binance-local-depth-cache
-unicorn-binance-rest-api
-unicorn-binance-trailing-stop-loss
-unicorn-binance-websocket-api
+unicorn-fy>=0.13.1
+unicorn-binance-local-depth-cache>=1.0.0
+unicorn-binance-rest-api>=2.1.2
+unicorn-binance-trailing-stop-loss>=1.0.0
+unicorn-binance-websocket-api>=2.1.2
