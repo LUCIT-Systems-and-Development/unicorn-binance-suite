@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #
-# File: unicorn_binance_suite/main.py
+# File: unicorn_binance_suite/manager.py
 #
 # Part of ‘UNICORN Binance Suite’
 # Project website: https://www.lucit.tech/unicorn-binance-suite.html

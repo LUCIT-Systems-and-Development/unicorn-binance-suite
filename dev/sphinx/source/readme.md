@@ -10,6 +10,9 @@
 [![License](https://img.shields.io/badge/license-LSOSL-blue)](https://unicorn-binance-suite.docs.lucit.tech/license.html)
 [![Supported Python Version](https://img.shields.io/pypi/pyversions/unicorn_binance_suite.svg)](https://www.python.org/downloads/)
 [![PyPI - Status](https://img.shields.io/pypi/status/unicorn_binance_suite.svg)](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/issues)
+[![codecov](https://codecov.io/gh/LUCIT-Systems-and-Development/unicorn-binance-suite/branch/master/graph/badge.svg?token=5I03AZ3F5S)](https://codecov.io/gh/LUCIT-Systems-and-Development/unicorn-binance-suite)
+[![CodeQL](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/actions/workflows/codeql-analysis.yml)
+[![Unit Tests](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/actions/workflows/unit-tests.yml/badge.svg)](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/actions/workflows/unit-tests.yml)
 [![Build and Publish GH+PyPi](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/actions/workflows/build_wheels.yml/badge.svg)](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/actions/workflows/build_wheels.yml)
 [![Build and Publish Anaconda](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/actions/workflows/build_conda.yml/badge.svg)](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/actions/workflows/build_conda.yml)
 [![Read the Docs](https://img.shields.io/badge/read-%20docs-yellow)](https://unicorn-binance-suite.docs.lucit.tech/)
@@ -120,10 +123,10 @@ Run in bash:
 `pip install https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/archive/$(curl -s https://api.github.com/repos/LUCIT-Systems-and-Development/unicorn-binance-suite/releases/latest | grep -oP '"tag_name": "\K(.*)(?=")').tar.gz --upgrade`
 
 #### Windows
-Use the below command with the version (such as 1.1.0) you determined 
+Use the below command with the version (such as 2.0.0) you determined 
 [here](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/releases/latest):
 
-`pip install https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/archive/1.1.0.tar.gz --upgrade`
+`pip install https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/archive/2.0.0.tar.gz --upgrade`
 
 ### From the latest source (dev-stage) with PIP from [GitHub](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite)
 This is not a release version and can not be considered to be stable!
