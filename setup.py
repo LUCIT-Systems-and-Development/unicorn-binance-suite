@@ -34,7 +34,7 @@ setup(
      long_description=long_description,
      long_description_content_type="text/markdown",
     license='LSOSL - LUCIT Synergetic Open Source License',
-     install_requires=['unicorn-binance-websocket-api>=2.1.2', 'unicorn-binance-rest-api>=2.1.2', 'unicorn-fy>=0.13.1',
+     install_requires=['unicorn-binance-websocket-api>=2.0.0', 'unicorn-binance-rest-api>=2.0.0', 'unicorn-fy>=0.13.1',
                        'unicorn-binance-local-depth-cache>=1.0.0', 'unicorn-binance-trailing-stop-loss>=1.0.0',
                        'lucit-licensing-python>=1.8.1'],
      keywords='Binance, Websocket, REST, Local Depth Cache, Trailing Stop Loss, Trading Bot, Algo Trading',
