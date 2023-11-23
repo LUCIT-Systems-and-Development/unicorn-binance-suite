@@ -7,6 +7,8 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 [Discussions about unicorn-fy releases!](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/discussions/categories/releases)
 
+[How to upgrade to the latest version!](https://unicorn-binance-suite.docs.lucit.tech/readme.html#installation-and-upgrade)
+
 ## 1.1.0.dev (development stage/unreleased/unstable)
 
 ## 1.1.0

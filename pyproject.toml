@@ -1,0 +1,39 @@
+[tool.poetry]
+name = "unicorn-binance-local-depth-cache"
+version = "0.7.3"
+description = "A local Binance DepthCache Manager for Python that supports multiple depth caches in one instance in a easy, fast, flexible, robust and fully-featured way."
+authors = ["LUCIT Systems and Development <info@lucit.tech>"]
+license = "LSOSL - LUCIT Synergetic Open Source License"
+readme = "README.md"
+homepage = "https://www.lucit.tech/unicorn-binance-local-depth-cache.html"
+documentation = "https://unicorn-binance-local-depth-cache.docs.lucit.tech"
+repository = "https://github.com/LUCIT-Systems-and-Development/unicorn-binance-local-depth-cache"
+
+[tool.poetry.urls]
+'Howto' = 'https://www.lucit.tech/unicorn-binance-local-depth-cache.html#howto'
+'Documentation' = 'https://unicorn-binance-local-depth-cache.docs.lucit.tech'
+'Wiki' = 'https://github.com/LUCIT-Systems-and-Development/unicorn-binance-local-depth-cache/wiki'
+'Author' = 'https://www.lucit.tech'
+'Changes' = 'https://unicorn-binance-local-depth-cache.docs.lucit.tech/changelog.html'
+'License' = 'https://unicorn-binance-local-depth-cache.docs.lucit.tech/license.html'
+'Issue Tracker' = 'https://github.com/LUCIT-Systems-and-Development/unicorn-binance-local-depth-cache/issues'
+'Telegram' = 'https://t.me/unicorndevs'
+'Chat' = 'https://app.gitter.im/#/room/#unicorn-binance-suite_unicorn-binance-local-depth-cache:gitter.im'
+'Get Support' = 'https://www.lucit.tech/get-support.html'
+'LUCIT Online Shop' = 'https://shop.lucit.services/software/unicorn-binance-suite'
+
+[tool.poetry.dependencies]
+python = ">=3.7.0"
+lucit-licensing-python = "*"
+requests = "*"
+unicorn-binance-rest-api = "*"
+unicorn-binance-websocket-api = "*"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["setuptools", "wheel", "Cython", "pip"]
+build-backend = "setuptools.build_meta"
+
+[tool.poetry.package_data]
+unicorn_binance_websocket_api = ["*.so", "*.dll"]

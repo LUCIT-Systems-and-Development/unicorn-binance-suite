@@ -49,16 +49,14 @@ try:
     import unicorn_binance_local_depth_cache
     ubldc = unicorn_binance_local_depth_cache.BinanceLocalDepthCacheManager(warn_on_update=False)
     ubldc_version = ubldc.get_version()
-    ubldc.stop_manager_with_all_depth_caches()
+    ubldc.stop_manager()
 except ModuleNotFoundError:
-    ubldc_version = "not found"
-except AttributeError as error_msg:
-    print(f"error ubldc: {error_msg}")
     ubldc_version = "not found"
 
 try:
-    import unicorn_binance_rest_api
-    ubra_version = unicorn_binance_rest_api.BinanceRestApiManager(warn_on_update=False).get_version()
+    from unicorn_binance_rest_api.manager import BinanceRestApiManager
+    with BinanceRestApiManager(warn_on_update=False) as ubra:
+        ubra_version = ubra.get_version()
 except ModuleNotFoundError:
     ubra_version = "not found"
 
@@ -74,12 +72,19 @@ try:
     import unicorn_binance_websocket_api
     ubwa = unicorn_binance_websocket_api.BinanceWebSocketApiManager(warn_on_update=False)
     ubwa_version = ubwa.get_version()
-    ubwa.stop_manager_with_all_streams()
+    ubwa.stop_manager()
 except ModuleNotFoundError:
     ubwa_version = "not found"
 
+try:
+    from lucit_licensing_python.manager import LucitLicensingManager
+    with LucitLicensingManager(start=False) as llm:
+        llm_version = llm.get_module_version()
+except ModuleNotFoundError:
+    llm_version = "not found"
 
 print(f"Please post this to your github issue:")
+print(f"lucit_licensing_python: {llm_version}")
 print(f"unicorn_fy: {unify_version}")
 print(f"unicorn_binance_local_depth_cache: {ubldc_version}")
 print(f"unicorn_binance_rest_api: {ubra_version}")

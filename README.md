@@ -52,7 +52,7 @@ The `--upgrade` flag will not update the `unicorn-binance-suite` dependencies un
 
 `conda update -c conda-forge unicorn-binance-suite`
 
-### From source of the latest release with PIP from [Github](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite)
+### From source of the latest release with PIP from [GitHub](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite)
 #### Linux, macOS, ...
 Run in bash:
 
@@ -64,7 +64,7 @@ Use the below command with the version (such as 1.1.0) you determined
 
 `pip install https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/archive/1.1.0.tar.gz --upgrade`
 
-### From the latest source (dev-stage) with PIP from [Github](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite)
+### From the latest source (dev-stage) with PIP from [GitHub](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite)
 This is not a release version and can not be considered to be stable!
 
 `pip install https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/tarball/master --upgrade`
