@@ -17,3 +17,6 @@
 #
 # Copyright (c) 2019-2023, LUCIT Systems and Development (https://www.lucit.tech)
 # All rights reserved.
+
+__app_name__: str = "unicorn-binance-suite"
+__version__: str = "2.0.0"

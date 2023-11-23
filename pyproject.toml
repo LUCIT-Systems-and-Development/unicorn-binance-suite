@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "unicorn-binance-suite"
-version = "1.1.0"
+version = "2.0.0"
 description = "The UNICORN Binance Suite is a Python Meta Package of unicorn-fy, unicorn-binance-local-depth-cache, unicorn-binance-rest-api, unicorn-binance-trailing-stop-loss and unicorn-binance-websocket-api. "
 authors = ["LUCIT Systems and Development <info@lucit.tech>"]
 license = "LSOSL - LUCIT Synergetic Open Source License"
