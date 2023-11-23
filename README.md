@@ -3,14 +3,15 @@
 [![Github](https://img.shields.io/badge/source-github-cbc2c8)](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite)
 [![GitHub Release](https://img.shields.io/github/release/LUCIT-Systems-and-Development/unicorn-binance-suite.svg?label=github)](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/releases)
 [![GitHub Downloads](https://img.shields.io/github/downloads/LUCIT-Systems-and-Development/unicorn-binance-suite/total?color=blue)](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/releases)
-[![Conda Release](https://img.shields.io/conda/vn/conda-forge/unicorn-binance-suite.svg?color=blue)](https://anaconda.org/conda-forge/unicorn-binance-suite)
-[![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/unicorn-binance-suite.svg?color=blue)](https://anaconda.org/conda-forge/unicorn-binance-suite)
+[![Anaconda Release](https://anaconda.org/lucit/unicorn-binance-websocket-api/badges/version.svg)](https://anaconda.org/lucit/unicorn-binance-websocket-api)
+[![Anaconda Downloads](https://anaconda.org/lucit/unicorn-binance-websocket-api/badges/downloads.svg)](https://anaconda.org/lucit/unicorn-binance-websocket-api)
 [![PyPi Release](https://img.shields.io/pypi/v/unicorn-binance-suite?color=blue)](https://pypi.org/project/unicorn-binance-suite/)
 [![PyPi Downloads](https://pepy.tech/badge/unicorn-binance-suite)](https://pepy.tech/project/unicorn-binance-suite)
 [![License](https://img.shields.io/badge/license-LSOSL-blue)](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-websocket-api/blob/master/LICENSE)
 [![Supported Python Version](https://img.shields.io/pypi/pyversions/unicorn_binance_suite.svg)](https://www.python.org/downloads/)
 [![PyPI - Status](https://img.shields.io/pypi/status/unicorn_binance_suite.svg)](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/issues)
-[![Azure Pipelines](https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/unicorn-binance-suite-feedstock?branchName=main)](https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=15707&branchName=main)
+[![Build and Publish GH+PyPi](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-websocket-api/actions/workflows/build_wheels.yml/badge.svg)](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-websocket-api/actions/workflows/build_wheels.yml)
+[![Build and Publish Anaconda](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-websocket-api/actions/workflows/build_conda.yml/badge.svg)](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-websocket-api/actions/workflows/build_conda.yml)
 [![Read the Docs](https://img.shields.io/badge/read-%20docs-yellow)](https://unicorn-binance-suite.docs.lucit.tech/)
 [![Read How To`s](https://img.shields.io/badge/read-%20howto-yellow)](https://medium.lucit.tech)
 [![Telegram](https://img.shields.io/badge/chat-telegram-41ab8c)](https://t.me/unicorndevs)
@@ -21,12 +22,28 @@
 # UNICORN Binance Suite
 [Description](#description) | [Installation](#installation-and-upgrade) | [How To](#howto) | [Change Log](#change-log) | 
 [Documentation](#documentation) | [Social](#social) | [Notifications](#receive-notifications) | [Bugs](#how-to-report-bugs-or-suggest-improvements) | 
-[Contributing](#contributing) | [Leave a review](#you-want-to-say-thank-you) | [Leave a review](#you-want-to-say-thank-you) | 
-[Disclaimer](#disclaimer) | [Commercial Support](#commercial-support)
+[Contributing](#contributing) | [Disclaimer](#disclaimer) | [Commercial Support](#commercial-support)
 
 ## Description
-The [`UNICORN Binance Suite`](https://www.lucit.tech/unicorn-binance-suite.html) is a collection of open source Python packages that are useful for creating
+The [`UNICORN Binance Suite`](https://www.lucit.tech/unicorn-binance-suite.html) for Python is a collection of open 
+source Python packages from [LUCIT Systems and Development](https://www.lucit.tech) that are useful for creating 
 automated trading systems (bots) that connect to the Binance API.
+
+The suite is the most stable, powerful and convenient way to interact with various Binance API endpoints via 
+[REST](https://www.lucit.tech/unicorn-binance-rest-api.html) and 
+[Websocket](https://www.lucit.tech/unicorn-binance-websocket-api.html) and to 
+[manage local order books](https://www.lucit.tech/unicorn-binance-local-depth-cache.html) and 
+[trailing stop losses](https://www.lucit.tech/unicorn-binance-trailing-stop-loss.html).
+
+All libraries in the suite are coordinated with each other, interlock perfectly, are fully documented and offer 
+standardized interfaces and tools for the programmer. LUCIT continuously develops the modules, fixes bugs, tests the 
+libraries extensively and offers [fast, direct and free support](https://www.lucit.tech/get-support.html).
+
+All modules are delivered optimized as PyPy and as C++ compilations (Cython) via PyPi and Anaconda. The package 
+creation runs completely transparently directly from the respective GitHub repository through GitHub Actions and is 
+deployed directly to PyPi and Anaconda in a traceable manner. This process makes it tamper-proof for the user to 
+understand which code is contained in which package and can therefore easily install optimized builds for the platform, 
+architecture and Python version used.
 
 - [`UnicornFy`](https://www.lucit.tech/unicorn-fy.html): Convert received raw data from crypto exchange API endpoints into well-formed python dictionaries. 
 - [`UNICORN Binance Local Depth Cache`](https://www.lucit.tech/unicorn-binance-local-depth-cache.html): A local Binance DepthCache Manager for Python that supports multiple depth caches in one instance in a easy, fast, flexible, robust and fully-featured way. 
@@ -37,6 +54,10 @@ automated trading systems (bots) that connect to the Binance API.
 If you like the project, please 
 [![star](https://raw.githubusercontent.com/lucit-systems-and-development/unicorn-binance-suite/master/images/misc/star.png)](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/stargazers) it on 
 [GitHub](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite)! 
+
+## Get a UNICORN Binance Suite License
+
+To run modules of the *UNICORN Binance Suite* you need a [valid license](https://medium.lucit.tech/how-to-obtain-and-use-a-unicorn-binance-suite-license-key-and-run-the-ubs-module-according-to-best-87b0088124a8#4ca4)!
 
 ## Installation and Upgrade
 
@@ -113,9 +134,6 @@ Please look for the information in the README.md of the [responsible subreposito
 
 ## Contributing
 Please look for the information in the README.md of the [responsible subrepository](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite#description).
-
-## You want to say Thank You?
-We hope you are enjoying using our libraries and that they are proving to be useful to you. If you have a moment, we would greatly appreciate it if you could leave us a [review on Google](https://g.page/r/CbfHlcs8BfG8EAg/review). Thank you for your support!
 
 ## Disclaimer
 This project is for informational purposes only. You should not construe this information or any other material as 
