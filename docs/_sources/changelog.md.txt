@@ -5,14 +5,18 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to 
 [Semantic Versioning](http://semver.org/).
 
-[Discussions about unicorn-fy releases!](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/discussions/categories/releases)
+[Discussions about unicorn-binance-suite releases!](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/discussions/categories/releases)
 
 [How to upgrade to the latest version!](https://unicorn-binance-suite.docs.lucit.tech/readme.html#installation-and-upgrade)
 
-## 1.1.0.dev (development stage/unreleased/unstable)
+## 2.0.0.dev (development stage/unreleased/unstable)
+
+## 2.0.0
+### Added
+- lucit-licensing-python
 
 ## 1.1.0
-## Adding 
+### Added
 - unicorn-binance-trailing-stop-loss
 
 ## 1.0.2
