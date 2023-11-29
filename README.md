@@ -3,8 +3,8 @@
 [![GitHub](https://img.shields.io/badge/source-github-cbc2c8)](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite)
 [![GitHub Release](https://img.shields.io/github/release/LUCIT-Systems-and-Development/unicorn-binance-suite.svg?label=github)](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/releases)
 [![GitHub Downloads](https://img.shields.io/github/downloads/LUCIT-Systems-and-Development/unicorn-binance-suite/total?color=blue)](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/releases)
-[![Anaconda Release](https://anaconda.org/lucit/unicorn-binance-suite/badges/version.svg)](https://anaconda.org/lucit/unicorn-binance-suite)
-[![Anaconda Downloads](https://anaconda.org/lucit/unicorn-binance-suite/badges/downloads.svg)](https://anaconda.org/lucit/unicorn-binance-suite)
+![Conda Release](https://img.shields.io/conda/v/lucit/unicorn-binance-suite)
+![Conda Downloads](https://img.shields.io/conda/dn/lucit/unicorn-binance-suite?color=blue)
 [![PyPi Release](https://img.shields.io/pypi/v/unicorn-binance-suite?color=blue)](https://pypi.org/project/unicorn-binance-suite/)
 [![PyPi Downloads](https://pepy.tech/badge/unicorn-binance-suite)](https://pepy.tech/project/unicorn-binance-suite)
 [![License](https://img.shields.io/badge/license-LSOSL-blue)](https://unicorn-binance-suite.docs.lucit.tech/license.html)
@@ -19,6 +19,7 @@
 [![Read How To`s](https://img.shields.io/badge/read-%20howto-yellow)](https://medium.lucit.tech)
 [![Telegram](https://img.shields.io/badge/chat-telegram-41ab8c)](https://t.me/unicorndevs)
 [![Gitter](https://badges.gitter.im/unicorn-binance-suite/unicorn-binance-suite.svg)](https://gitter.im/unicorn-binance-suite/unicorn-binance-suite?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![ChatGPT UNICORN Binance Suite Assistant](https://img.shields.io/badge/chatgpt-%20ubs%20assistant-pink)](https://chat.openai.com/g/g-VjCOjRhCJ-unicorn-binance-suite-assistant)
 
 [![LUCIT-UBS-Banner](https://raw.githubusercontent.com/LUCIT-Systems-and-Development/unicorn-binance-suite/master/images/logo/LUCIT-UBS-Banner-Readme.png)](https://www.lucit.tech/unicorn-binance-suite.html)
 
