@@ -1,10 +1,9 @@
 [![Get a UNICORN Binance Suite License](https://raw.githubusercontent.com/LUCIT-Systems-and-Development/unicorn-binance-suite/master/images/logo/LUCIT-UBS-License-Offer.png)](https://shop.lucit.services)
 
-[![GitHub](https://img.shields.io/badge/source-github-cbc2c8)](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite)
 [![GitHub Release](https://img.shields.io/github/release/LUCIT-Systems-and-Development/unicorn-binance-suite.svg?label=github)](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/releases)
 [![GitHub Downloads](https://img.shields.io/github/downloads/LUCIT-Systems-and-Development/unicorn-binance-suite/total?color=blue)](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/releases)
-![Conda Release](https://img.shields.io/conda/v/lucit/unicorn-binance-suite)
-![Conda Downloads](https://img.shields.io/conda/dn/lucit/unicorn-binance-suite?color=blue)
+![Anaconda Release](https://img.shields.io/conda/v/lucit/unicorn-binance-suite?color=blue)
+![Anaconda Downloads](https://img.shields.io/conda/dn/lucit/unicorn-binance-suite?color=blue)
 [![PyPi Release](https://img.shields.io/pypi/v/unicorn-binance-suite?color=blue)](https://pypi.org/project/unicorn-binance-suite/)
 [![PyPi Downloads](https://pepy.tech/badge/unicorn-binance-suite)](https://pepy.tech/project/unicorn-binance-suite)
 [![License](https://img.shields.io/badge/license-LSOSL-blue)](https://unicorn-binance-suite.docs.lucit.tech/license.html)
@@ -17,11 +16,11 @@
 [![Build and Publish Anaconda](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/actions/workflows/build_conda.yml/badge.svg)](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/actions/workflows/build_conda.yml)
 [![Read the Docs](https://img.shields.io/badge/read-%20docs-yellow)](https://unicorn-binance-suite.docs.lucit.tech/)
 [![Read How To`s](https://img.shields.io/badge/read-%20howto-yellow)](https://medium.lucit.tech)
+[![GitHub](https://img.shields.io/badge/source-github-cbc2c8)](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite)
 [![Telegram](https://img.shields.io/badge/community-telegram-41ab8c)](https://t.me/unicorndevs)
 [![Gitter](https://img.shields.io/badge/community-gitter-41ab8c)](https://gitter.im/unicorn-binance-suite/unicorn-binance-suite)
 [![Get Free Professional Support](https://img.shields.io/badge/chat-lucit%20support-004166)](https://www.lucit.tech/get-support.html)
 [![ChatGPT UNICORN Binance Suite Assistant](https://img.shields.io/badge/chatgpt-%20ubs%20assistant-DA70D6)](https://chat.openai.com/g/g-VjCOjRhCJ-unicorn-binance-suite-assistant)
-
 
 [![LUCIT-UBS-Banner](https://raw.githubusercontent.com/LUCIT-Systems-and-Development/unicorn-binance-suite/master/images/logo/LUCIT-UBS-Banner-Readme.png)](https://www.lucit.tech/unicorn-binance-suite.html)
 
@@ -50,6 +49,10 @@ creation runs completely transparently directly from the respective GitHub repos
 deployed directly to PyPi and Anaconda in a traceable manner. This process makes it tamper-proof for the user to 
 understand which code is contained in which package and can therefore easily install optimized builds for the platform, 
 architecture and Python version used.
+
+Get help with the integration of the `UNICORN Binance Suite` modules from the 
+[`UNICORN Binance Suite Assistant` GPT](https://chat.openai.com/g/g-VjCOjRhCJ-unicorn-binance-suite-assistant) or 
+[a real human LUCIT employee](https://www.lucit.tech/get-support.html).
 
 ## Modules of the UNICORN Binance Suite
 
