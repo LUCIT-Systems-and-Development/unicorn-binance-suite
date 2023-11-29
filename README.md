@@ -44,7 +44,8 @@ All libraries in the suite are coordinated with each other, interlock perfectly,
 standardized interfaces and tools for the programmer. LUCIT continuously develops the modules, fixes bugs, tests the 
 libraries extensively and offers [fast, direct and free support](https://www.lucit.tech/get-support.html).
 
-All modules are delivered optimized as PyPy and as C++ compilations (Cython) via PyPi and Anaconda. The package 
+All modules are delivered optimized as PyPy and as Python C Extension (Cython) via 
+[PyPi](https://pypi.org/user/LUCIT/) and [Anaconda](https://anaconda.org/lucit). The package 
 creation runs completely transparently directly from the respective GitHub repository through GitHub Actions and is 
 deployed directly to PyPi and Anaconda in a traceable manner. This process makes it tamper-proof for the user to 
 understand which code is contained in which package and can therefore easily install optimized builds for the platform, 
