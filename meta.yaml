@@ -50,8 +50,10 @@ test:
 
 about:
   summary: | 
-    An unofficial Python API to use the Binance REST API`s (com+testnet, com-margin+testnet, 
-    com-isolated_margin+testnet, com-futures+testnet, us, tr) in a easy, fast, flexible, robust and fully-featured way.
+    LUCIT's UNICORN Binance Suite is a comprehensive collection of open-source Python packages designed for building 
+    sophisticated automated trading systems. Tailored for Python developers, this suite offers seamless integration 
+    with the Binance API, enabling the creation of advanced and professional trading bots for streamlined and efficient 
+    cryptocurrency trading.
   description: |
     [![Get a UNICORN Binance Suite License](https://raw.githubusercontent.com/LUCIT-Systems-and-Development/unicorn-binance-suite/master/images/logo/LUCIT-UBS-License-Offer.png)](https://shop.lucit.services)
     
@@ -83,9 +85,10 @@ about:
     [Contributing](#contributing) | [Disclaimer](#disclaimer) | [Commercial Support](#commercial-support)
     
     ## Description
-    The [`UNICORN Binance Suite`](https://www.lucit.tech/unicorn-binance-suite.html) for Python is a collection of open 
-    source Python packages from [LUCIT Systems and Development](https://www.lucit.tech) that are useful for creating 
-    automated trading systems (bots) that connect to the Binance API.
+    LUCIT's [`UNICORN Binance Suite`](https://www.lucit.tech/unicorn-binance-suite.html) is a comprehensive collection of open-source Python packages designed for 
+    building sophisticated automated trading systems. Tailored for Python developers, this suite offers seamless 
+    integration with the Binance API, enabling the creation of advanced and professional trading bots for streamlined and 
+    efficient cryptocurrency trading.
     
     The suite is the most stable, powerful and convenient way to interact with various Binance API endpoints via 
     [REST](https://www.lucit.tech/unicorn-binance-rest-api.html) and 

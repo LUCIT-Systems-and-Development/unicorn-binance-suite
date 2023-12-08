@@ -29,8 +29,10 @@ setup(
      author="LUCIT Systems and Development",
      author_email='info@lucit.tech',
      url="https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite",
-     description="The UNICORN Binance Suite is a Python Meta Package of unicorn-fy, unicorn-binance-local-depth-cache, "
-                 "unicorn-binance-rest-api, unicorn-binance-trailing-stop-loss and unicorn-binance-websocket-api.",
+     description="LUCIT's UNICORN Binance Suite is a comprehensive collection of open-source Python packages designed "
+                 "for building sophisticated automated trading systems. Tailored for Python developers, this suite "
+                 "offers seamless integration with the Binance API, enabling the creation of advanced and professional "
+                 "trading bots for streamlined and efficient cryptocurrency trading.",
      long_description=long_description,
      long_description_content_type="text/markdown",
     license='LSOSL - LUCIT Synergetic Open Source License',
