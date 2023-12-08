@@ -31,7 +31,7 @@
 
 ## Description
 The [`UNICORN Binance Suite`](https://www.lucit.tech/unicorn-binance-suite.html) for Python is a collection of open 
-source Python packages from [LUCIT Systems and Development](https://www.lucit.tech) that are useful for creating 
+source Python packages from [LUCIT Systems and Development](https://www.lucit.tech) that are useful for creating professional 
 automated trading systems (bots) that connect to the Binance API.
 
 The suite is the most stable, powerful and convenient way to interact with various Binance API endpoints via 
