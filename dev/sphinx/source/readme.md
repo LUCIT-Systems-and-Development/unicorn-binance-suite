@@ -48,7 +48,7 @@ libraries extensively and offers [fast, direct and free support](https://www.luc
 All modules are delivered optimized as PyPy and as Python C Extension (Cython) via 
 [PyPi](https://pypi.org/user/LUCIT/) and [Anaconda](https://anaconda.org/lucit). The package 
 creation runs completely transparently directly from the respective GitHub repository through GitHub Actions and is 
-deployed directly to PyPi and Anaconda in a traceable manner. This process makes it tamper-proof for the user to 
+deployed directly to PyPi and Anaconda in a traceable manner. This process makes it tamper-proof for you to 
 understand which code is contained in which package and can therefore easily install optimized builds for the platform, 
 architecture and Python version used.
 
