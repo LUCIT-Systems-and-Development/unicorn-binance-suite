@@ -1,1 +1,1 @@
-from unittest_binance_suite.manager import *
+from unicorn_binance_suite.manager import *
