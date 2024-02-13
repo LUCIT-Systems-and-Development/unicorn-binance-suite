@@ -20,7 +20,7 @@ sys.path.insert(0, os.path.abspath('../../..'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'unicorn_binance_suite'
+project = 'unicorn-binance-suite'
 copyright = '2019-2023, LUCIT Systems and Development. All Rights Reserved.'
 author = 'LUCIT Systems and Development'
 
