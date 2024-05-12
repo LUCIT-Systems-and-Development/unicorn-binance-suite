@@ -20,7 +20,6 @@
 [![Telegram](https://img.shields.io/badge/community-telegram-41ab8c)](https://t.me/unicorndevs)
 [![Gitter](https://img.shields.io/badge/community-gitter-41ab8c)](https://gitter.im/unicorn-binance-suite/unicorn-binance-suite)
 [![Get Free Professional Support](https://img.shields.io/badge/chat-lucit%20support-004166)](https://www.lucit.tech/get-support.html)
-[![ChatGPT UNICORN Binance Suite Assistant](https://img.shields.io/badge/chatgpt-%20ubs%20assistant-DA70D6)](https://chat.openai.com/g/g-VjCOjRhCJ-unicorn-binance-suite-assistant)
 
 [![LUCIT-UBS-Banner](https://raw.githubusercontent.com/LUCIT-Systems-and-Development/unicorn-binance-suite/master/images/logo/LUCIT-UBS-Banner-Readme.png)](https://www.lucit.tech/unicorn-binance-suite.html)
 
@@ -52,9 +51,7 @@ deployed directly to PyPi and Anaconda in a traceable manner. This process makes
 understand which code is contained in which package and can therefore easily install optimized builds for the platform, 
 architecture and Python version used.
 
-Get help with the integration of the `UNICORN Binance Suite` modules from the 
-[`UNICORN Binance Suite Assistant` GPT](https://chat.openai.com/g/g-VjCOjRhCJ-unicorn-binance-suite-assistant) or 
-[a real human LUCIT employee](https://www.lucit.tech/get-support.html).
+[Get help](https://www.lucit.tech/get-support.html) with the integration of the `UNICORN Binance Suite` modules!
 
 ## Modules of the UNICORN Binance Suite
 
@@ -82,6 +79,17 @@ For the PyPy interpreter we offer packages only from Python version 3.9 and high
 Anaconda packages are available from Python version 3.8 and higher.
 
 If you run into errors during the installation take a look [here](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/wiki/Installation).
+
+### Packages are created automatically with GitHub Actions
+When a new release is to be created, we start two GitHubActions: 
+
+- [Build and Publish Anaconda](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/actions/workflows/build_conda.yml)
+- [Build and Publish GH+PyPi](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/actions/workflows/build_wheels.yml) 
+
+Both start virtual Windows/Linux/Mac servers provided by GitHub in the cloud with preconfigured environments and 
+create the respective compilations and stub files, pack them into wheels and conda packages and then publish them on 
+GitHub, PYPI and Anaconda. This is a transparent method that makes it possible to trace the source code behind a 
+compilation.
 
 ### A Cython binary, PyPy or source code based CPython wheel of the latest version with `pip` from [PyPI](https://pypi.org/project/unicorn-binance-rest-api/)
 Our [Cython](https://cython.org/) and [PyPy](https://www.pypy.org/) Wheels are available on [PyPI](https://pypi.org/), 
