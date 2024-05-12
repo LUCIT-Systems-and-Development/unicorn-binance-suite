@@ -55,11 +55,17 @@ architecture and Python version used.
 
 ## Modules of the UNICORN Binance Suite
 
-- [`UNICORN Binance Local Depth Cache`](https://www.lucit.tech/unicorn-binance-local-depth-cache.html): A local Binance DepthCache Manager for Python that supports multiple depth caches in one instance in a easy, fast, flexible, robust and fully-featured way. 
-- [`UNICORN Binance REST API`](https://www.lucit.tech/unicorn-binance-rest-api.html): A Python API to use the Binance REST API`s (com+testnet, com-margin+testnet, com-isolated_margin+testnet, com-futures+testnet, us, tr) in a easy, fast, flexible, robust and fully-featured way.
+- [`UNICORN Binance Local Depth Cache`](https://www.lucit.tech/unicorn-binance-local-depth-cache.html): A Python SDK from LUCIT to access and manage multiple local Binance 
+  DepthCaches with Python in a simple, fast, flexible, robust and fully-featured way. 
+- [`UNICORN Binance REST API`](https://www.lucit.tech/unicorn-binance-rest-api.html): A Python SDK by LUCIT to use the Binance REST API`s (com+testnet, 
+  com-margin+testnet, com-isolated_margin+testnet, com-futures+testnet, us, tr) in a simple, fast, flexible, robust 
+  and fully-featured way. 
 - [`UNICORN Binance Trailing Stop Loss`](https://www.lucit.tech/unicorn-binance-trailing-stop-loss.html): A Trailing Stop Loss Python Lib and [Command Line Tool](https://www.lucit.tech/ubtsl-cli.html).
-- [`UNICORN Binance WebSocket API`](https://www.lucit.tech/unicorn-binance-websocket-api.html): A Python API to use the Binance Websocket API`s (com+testnet, com-margin+testnet, com-isolated_margin+testnet, com-futures+testnet, com-coin_futures, us, tr, dex/chain+testnet) in a easy, fast, flexible, robust and fully-featured way.
-- [`UnicornFy`](https://www.lucit.tech/unicorn-fy.html): Convert received raw data from crypto exchange API endpoints into well-formed python dictionaries.
+- [`UNICORN Binance WebSocket API`](https://www.lucit.tech/unicorn-binance-websocket-api.html): A Python SDK by LUCIT to use the Binance Websocket API`s (com+testnet, 
+  com-margin+testnet, com-isolated_margin+testnet, com-futures+testnet, com-coin_futures, us, tr, dex/chain+testnet) in 
+  a simple, fast, flexible, robust and fully-featured way. 
+- [`UnicornFy`](https://www.lucit.tech/unicorn-fy.html): A Python SDK by LUCIT to convert received raw data from crypto exchange API endpoints into 
+  well-formed python dictionaries. 
 
 If you like our projects, please 
 [![star](https://raw.githubusercontent.com/lucit-systems-and-development/unicorn-binance-suite/master/images/misc/star.png)](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite/stargazers) them on 
