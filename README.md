@@ -60,7 +60,8 @@ architecture and Python version used.
 - [`UNICORN Binance REST API`](https://www.lucit.tech/unicorn-binance-rest-api.html): A Python SDK by LUCIT to use the Binance REST API`s (com+testnet, 
   com-margin+testnet, com-isolated_margin+testnet, com-futures+testnet, us, tr) in a simple, fast, flexible, robust 
   and fully-featured way. 
-- [`UNICORN Binance Trailing Stop Loss`](https://www.lucit.tech/unicorn-binance-trailing-stop-loss.html): A Trailing Stop Loss Python Lib and [Command Line Tool](https://www.lucit.tech/ubtsl-cli.html).
+- [`UNICORN Binance Trailing Stop Loss`](https://www.lucit.tech/unicorn-binance-trailing-stop-loss.html): A Python SDK and [Command Line Tool](https://www.lucit.tech/ubtsl-cli.html) 
+  from LUCIT with a trailing stop loss engine for the Binance Exchanges.
 - [`UNICORN Binance WebSocket API`](https://www.lucit.tech/unicorn-binance-websocket-api.html): A Python SDK by LUCIT to use the Binance Websocket API`s (com+testnet, 
   com-margin+testnet, com-isolated_margin+testnet, com-futures+testnet, com-coin_futures, us, tr, dex/chain+testnet) in 
   a simple, fast, flexible, robust and fully-featured way. 
